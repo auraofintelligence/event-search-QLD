@@ -80,13 +80,28 @@ def scrape_uq():
         title = link.text.strip()
         if '/event/session/' in href and 'calendar.ics' not in href and len(title) > 10: # Avoid grabbing nav links like "All Events"
             url = href if href.startswith('http') else "https://alumni.uq.edu.au" + href
+
+            # Extract date from parent's text
+            event_date = datetime.now().isoformat()
+            parent_text = link.parent.parent.text.strip()
+            if parent_text:
+                lines = [l.strip() for l in parent_text.split('\n') if l.strip()]
+                if len(lines) > 1:
+                    date_str = lines[1]
+                    first_part = date_str.split('–')[0].strip() # get start time
+                    try:
+                        parsed = datetime.strptime(first_part, '%d %B %Y %I:%M%p')
+                        event_date = parsed.isoformat()
+                    except Exception:
+                        pass
+
             events.append({
                 "id": f"uq_{hash(title)}",
                 "title": title,
                 "description": "",
                 "host_organization": "UQ",
                 "location": "St Lucia, Brisbane", # Fallback location to pass filter
-                "date": datetime.now().isoformat(),
+                "date": event_date,
                 "url": url
             })
     return events
@@ -113,6 +128,15 @@ def scrape_platforms_via_search():
                 href = a.get('href', '')
                 if '/events/' in href and a.text.strip():
                     title = a.text.strip()
+
+                    event_date = datetime.now().isoformat()
+                    time_tag = a.find('time')
+                    if time_tag and time_tag.get('datetime'):
+                        dt_val = time_tag.get('datetime')
+                        if '[' in dt_val:
+                            dt_val = dt_val.split('[')[0]
+                        event_date = dt_val
+
                     # Basic filter to ensure it's not a generic link
                     if len(title) > 10:
                         events.append({
@@ -121,7 +145,7 @@ def scrape_platforms_via_search():
                             "description": query, # Use query as snippet/description
                             "host_organization": "Eventbrite/Meetup",
                             "location": "Brisbane", # Fake location to pass tier filter
-                            "date": datetime.now().isoformat(),
+                            "date": event_date,
                             "url": href
                         })
     except Exception as e:

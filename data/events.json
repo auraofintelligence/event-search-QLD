@@ -1,17 +1,1 @@
-[
-    {
-        "id": "uq_1",
-        "title": "Introduction to AI in Law",
-        "description": "Discussing the future of legal tech.",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-03-15T10:00:00",
-        "url": "https://events.uq.edu.au/example",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "ai",
-            "law"
-        ],
-        "is_university_dragnet": false
-    }
-]
+[]

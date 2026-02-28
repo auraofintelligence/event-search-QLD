@@ -70,16 +70,16 @@ def fetch_soup(url):
 
 def scrape_uq():
     print("Sweeping UQ...")
-    soup = fetch_soup("https://events.uq.edu.au/events")
+    soup = fetch_soup("https://alumni.uq.edu.au/uq-alumni-events")
     events = []
     if not soup: return events
 
-    # Relaxed search: look for any links containing '/event' to bypass strict class names
+    # Relaxed search: look for any links containing '/event/session/' to bypass strict class names
     for link in soup.find_all('a', href=True):
         href = link['href']
         title = link.text.strip()
-        if '/event' in href and len(title) > 10: # Avoid grabbing nav links like "All Events"
-            url = href if href.startswith('http') else "https://events.uq.edu.au" + href
+        if '/event/session/' in href and 'calendar.ics' not in href and len(title) > 10: # Avoid grabbing nav links like "All Events"
+            url = href if href.startswith('http') else "https://alumni.uq.edu.au" + href
             events.append({
                 "id": f"uq_{hash(title)}",
                 "title": title,

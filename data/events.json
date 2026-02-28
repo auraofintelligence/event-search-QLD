@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "diagnostic_1",
+        "title": "SYSTEM LOG: 0 Raw Pulled, 0 Passed Filter",
+        "description": "UQ Scraped: 0 | Web Scraped: 0 | Error Log: None",
+        "host_organization": "System Diagnostic",
+        "location": "Brisbane CBD",
+        "date": "2026-02-28T03:52:13.053131",
+        "url": "#",
+        "tier": "Tier 1: Brisbane CBD",
+        "matched_topics": [
+            "Diagnostics"
+        ]
+    }
+]

@@ -2,9 +2,8 @@ name: Weekly Event Scraper
 
 on:
   schedule:
-    # Runs at 20:00 UTC every Sunday (6:00 AM AEST Monday)
-    - cron: '0 20 * * 4'
-  workflow_dispatch: # Allows you to trigger it manually via a button in GitHub
+  - cron: '0 20 * * 4'
+workflow_dispatch: 
 
 jobs:
   scrape-and-update:
@@ -22,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests beautifulsoup4 duckduckgo-search
           
       - name: Run Scraper
         run: python scraper.py
@@ -32,6 +31,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/events.json
-          # Only commit if there are changes
           git diff-index --quiet HEAD || git commit -m "Automated update of events.json"
           git push

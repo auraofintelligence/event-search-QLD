@@ -4,6 +4,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from duckduckgo_search import DDGS
 
 # --- YOUR INTELLIGENCE FILTERS ---
 TARGET_TOPICS = [
@@ -85,7 +86,7 @@ def scrape_uq():
                 "description": "",
                 "host_organization": "UQ",
                 "location": location,
-                "date": datetime.now().isoformat(), # UQ date parsing requires deeper DOM traversal
+                "date": datetime.now().isoformat(),
                 "url": link
             })
         except Exception:
@@ -98,7 +99,6 @@ def scrape_qut():
     events = []
     if not soup: return events
     
-    # Target QUT's specific list items (requires periodic checking if they update their CMS)
     for item in soup.find_all('li', class_='event-item'):
         try:
             title = item.find('h3').text.strip()
@@ -108,7 +108,7 @@ def scrape_qut():
                 "title": title,
                 "description": "",
                 "host_organization": "QUT",
-                "location": "Kelvin Grove or Gardens Point, Brisbane", # Fallback if missing
+                "location": "Kelvin Grove or Gardens Point, Brisbane",
                 "date": datetime.now().isoformat(),
                 "url": link if link.startswith('http') else "https://www.qut.edu.au" + link
             })
@@ -116,14 +116,50 @@ def scrape_qut():
             continue
     return events
 
+def scrape_platforms_via_search():
+    print("Sweeping Meetup & Eventbrite via DuckDuckGo...")
+    events = []
+    base_locations = '("Brisbane" OR "Gold Coast" OR "Sunshine Coast" OR "Ipswich" OR "Logan" OR "Moreton")'
+    
+    queries = [
+        f'site:eventbrite.com.au OR site:meetup.com {base_locations} ("Artificial Intelligence" OR "Robotics" OR "IoT" OR "XR" OR "Blockchain" OR "Cybersecurity")',
+        f'site:eventbrite.com.au OR site:meetup.com {base_locations} ("Law" OR "Governance" OR "Participatory Democracy" OR "Public Policy" OR "Politics")',
+        f'site:eventbrite.com.au OR site:meetup.com {base_locations} ("Disaster Preparedness" OR "Emergency Response" OR "2032 Olympics" OR "UAP" OR "UFO" OR "Aliens")',
+        f'site:eventbrite.com.au OR site:meetup.com {base_locations} ("International Relations" OR "International Trade" OR "Embassy" OR "Consulate")'
+    ]
+
+    try:
+        with DDGS() as ddgs:
+            for query in queries:
+                results = ddgs.text(query, max_results=15)
+                if not results: continue
+                
+                for r in results:
+                    snippet = r.get('body', '')
+                    title = r.get('title', '').replace(" | Eventbrite", "").replace(" | Meetup", "")
+                    
+                    events.append({
+                        "id": f"web_{hash(r['href'])}",
+                        "title": title,
+                        "description": snippet,
+                        "host_organization": "Eventbrite/Meetup",
+                        "location": snippet + " " + title, 
+                        "date": datetime.now().isoformat(),
+                        "url": r['href']
+                    })
+    except Exception as e:
+        print(f"Search bypass error: {e}")
+        
+    return events
+
 def main():
     print("SYSTEM ONLINE: Executing active data sweep.")
     raw_events = []
     
-    # Fire off university scrapers
+    # Fire off scrapers
     raw_events.extend(scrape_uq())
     raw_events.extend(scrape_qut())
-    # Griffith uses a dynamic JS calendar (Trumba), which requires a slightly different API approach we can add next.
+    raw_events.extend(scrape_platforms_via_search()) 
     
     shortlisted_events = []
     for event in raw_events:

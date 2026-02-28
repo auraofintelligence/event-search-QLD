@@ -3,7 +3,7 @@ name: Weekly Event Scraper
 on:
   schedule:
   - cron: '0 20 * * 4'
-workflow_dispatch: 
+  workflow_dispatch: 
 
 jobs:
   scrape-and-update:

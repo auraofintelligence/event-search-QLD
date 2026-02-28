@@ -1,0 +1,13 @@
+[
+  {
+    "id": "init_signal",
+    "title": "System Online: Awaiting First Sweep",
+    "description": "The Intelligence Triage system is active. Your first automated sweep is scheduled for Monday 6AM AEST.",
+    "host_organization": "System",
+    "location": "Amity Point, North Stradbroke Island",
+    "date": "2026-03-01T06:00:00",
+    "url": "#",
+    "tier": "Tier 3: SEQ",
+    "matched_topics": ["Governance", "System Initialization"]
+  }
+]

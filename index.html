@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEQ Intelligence Triage</title>
+    <style>
+        :root {
+            --dark-bg: #09090b;
+            --royal-purple: #4a148c;
+            --purple-glow: rgba(74, 20, 140, 0.6);
+            --kintsugi-gold: #d4af37;
+            --nature-green: #2e8b57;
+            --text-main: #e0e0e0;
+            --text-muted: #a0a0a0;
+        }
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: var(--dark-bg);
+            background-image: radial-gradient(circle at 50% 0%, #1e0a3c 0%, var(--dark-bg) 70%);
+            color: var(--text-main);
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            min-height: 100vh;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid var(--kintsugi-gold);
+            padding-bottom: 20px;
+            position: relative;
+        }
+
+        h1 {
+            color: var(--kintsugi-gold);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+            margin: 0 0 10px 0;
+        }
+
+        .subtitle {
+            color: var(--nature-green);
+            font-size: 0.9em;
+            letter-spacing: 1px;
+        }
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 25px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .event-card {
+            background: rgba(20, 10, 35, 0.7);
+            border: 1px solid rgba(74, 20, 140, 0.5);
+            border-top: 2px solid var(--kintsugi-gold); /* The kintsugi fracture line */
+            border-radius: 8px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5), inset 0 0 20px rgba(74, 20, 140, 0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .event-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px var(--purple-glow), inset 0 0 20px rgba(212, 175, 55, 0.1);
+        }
+
+        .tier-badge {
+            background: var(--royal-purple);
+            color: white;
+            font-size: 0.75em;
+            padding: 4px 8px;
+            border-radius: 4px;
+            align-self: flex-start;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .event-title {
+            font-size: 1.2em;
+            color: white;
+            margin: 0 0 10px 0;
+            line-height: 1.3;
+        }
+
+        .event-meta {
+            font-size: 0.85em;
+            color: var(--text-muted);
+            margin-bottom: 15px;
+        }
+
+        .event-meta span {
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .topics {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 20px;
+            flex-grow: 1;
+        }
+
+        .topic-tag {
+            background: transparent;
+            border: 1px solid var(--nature-green);
+            color: var(--nature-green);
+            font-size: 0.75em;
+            padding: 2px 8px;
+            border-radius: 12px;
+        }
+
+        .actions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: auto;
+            border-top: 1px dashed rgba(212, 175, 55, 0.3);
+            padding-top: 15px;
+        }
+
+        button, .btn-link {
+            background: transparent;
+            border: 1px solid var(--royal-purple);
+            color: var(--text-main);
+            padding: 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            font-size: 0.85em;
+            transition: all 0.2s;
+            text-transform: uppercase;
+        }
+
+        button:hover, .btn-link:hover {
+            background: var(--royal-purple);
+        }
+
+        .btn-rsvp {
+            border-color: var(--nature-green);
+            color: var(--nature-green);
+        }
+
+        .btn-rsvp:hover {
+            background: var(--nature-green);
+            color: var(--dark-bg);
+            box-shadow: 0 0 10px rgba(46, 139, 87, 0.5);
+        }
+
+        .btn-delete {
+            border-color: #8b0000;
+            color: #ff4c4c;
+        }
+
+        .btn-delete:hover {
+            background: #8b0000;
+            color: white;
+        }
+
+        .btn-save {
+            border-color: var(--kintsugi-gold);
+            color: var(--kintsugi-gold);
+        }
+
+        .btn-save:hover {
+            background: var(--kintsugi-gold);
+            color: var(--dark-bg);
+        }
+
+        /* Tabs for Triage vs Saved */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .tab {
+            background: transparent;
+            border: none;
+            border-bottom: 2px solid transparent;
+            color: var(--text-muted);
+            font-size: 1em;
+            padding: 10px 20px;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .tab.active {
+            color: var(--kintsugi-gold);
+            border-bottom: 2px solid var(--kintsugi-gold);
+            text-shadow: 0 0 8px rgba(212, 175, 55, 0.4);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Intelligence & Governance Triage</h1>
+        <div class="subtitle">Automated Signal Extraction | SEQ Node</div>
+    </header>
+
+    <div class="tabs">
+        <button class="tab active" onclick="switchTab('incoming')">Incoming Signals</button>
+        <button class="tab" onclick="switchTab('saved')">Saved Events</button>
+    </div>
+
+    <div class="dashboard" id="event-container">
+        </div>
+
+    <script>
+        let allEvents = [];
+        let currentTab = 'incoming';
+
+        // Load local state
+        let savedEventIds = JSON.parse(localStorage.getItem('savedEvents')) || [];
+        let dismissedEventIds = JSON.parse(localStorage.getItem('dismissedEvents')) || [];
+
+        // Fetch the automated JSON file
+        async function fetchEvents() {
+            try {
+                // In production, this reads from your GitHub repo's data folder
+                const response = await fetch('data/events.json');
+                if(!response.ok) throw new Error("Could not load data");
+                allEvents = await response.json();
+                renderEvents();
+            } catch (error) {
+                document.getElementById('event-container').innerHTML = 
+                    `<p style="color:var(--kintsugi-gold); text-align:center;">Awaiting initial data sweep from backend...</p>`;
+            }
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+            renderEvents();
+        }
+
+        function handleAction(action, eventId) {
+            if (action === 'save') {
+                if (!savedEventIds.includes(eventId)) savedEventIds.push(eventId);
+                dismissedEventIds = dismissedEventIds.filter(id => id !== eventId);
+            } else if (action === 'delete') {
+                if (!dismissedEventIds.includes(eventId)) dismissedEventIds.push(eventId);
+                savedEventIds = savedEventIds.filter(id => id !== eventId);
+            }
+            
+            localStorage.setItem('savedEvents', JSON.stringify(savedEventIds));
+            localStorage.setItem('dismissedEvents', JSON.stringify(dismissedEventIds));
+            renderEvents();
+        }
+
+        function generateInviteDraft(eventTitle, eventUrl) {
+            const subject = encodeURIComponent(`Event: ${eventTitle}`);
+            const body = encodeURIComponent(`Thought you might be interested in attending this event with me:\n\n${eventTitle}\n${eventUrl}`);
+            window.open(`mailto:?subject=${subject}&body=${body}`);
+        }
+
+        function renderEvents() {
+            const container = document.getElementById('event-container');
+            container.innerHTML = '';
+
+            let filteredEvents = allEvents.filter(ev => {
+                if (currentTab === 'incoming') {
+                    return !savedEventIds.includes(ev.id) && !dismissedEventIds.includes(ev.id);
+                } else {
+                    return savedEventIds.includes(ev.id);
+                }
+            });
+
+            if (filteredEvents.length === 0) {
+                container.innerHTML = `<p style="text-align:center; color:var(--text-muted); width: 100%;">No events in this queue.</p>`;
+                return;
+            }
+
+            filteredEvents.forEach(ev => {
+                const dateObj = new Date(ev.date || Date.now());
+                const dateString = dateObj.toLocaleDateString('en-AU', { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+                
+                let topicsHtml = (ev.matched_topics || []).map(t => `<span class="topic-tag">${t}</span>`).join('');
+                if (ev.is_university_dragnet) topicsHtml += `<span class="topic-tag" style="border-color:var(--royal-purple); color:#fff;">University Broadcast</span>`;
+
+                const card = document.createElement('div');
+                card.className = 'event-card';
+                card.innerHTML = `
+                    <div class="tier-badge">${ev.tier || 'Unknown Tier'}</div>
+                    <h3 class="event-title">${ev.title}</h3>
+                    <div class="event-meta">
+                        <span style="color: var(--kintsugi-gold);">Host: ${ev.host_organization || 'Unknown'}</span>
+                        <span>Date: ${dateString}</span>
+                        <span>Loc: ${ev.location || 'TBA'}</span>
+                    </div>
+                    <div class="topics">
+                        ${topicsHtml}
+                    </div>
+                    <div class="actions">
+                        ${currentTab === 'incoming' ? `<button class="btn-save" onclick="handleAction('save', '${ev.id}')">Save</button>` : ''}
+                        <button class="btn-delete" onclick="handleAction('delete', '${ev.id}')">${currentTab === 'incoming' ? 'Dismiss' : 'Remove'}</button>
+                        <a href="${ev.url}" target="_blank" class="btn-rsvp">RSVP Link</a>
+                        <button onclick="generateInviteDraft('${ev.title.replace(/'/g, "\\'")}', '${ev.url}')">Invite</button>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Boot up
+        fetchEvents();
+    </script>
+</body>
+</html>

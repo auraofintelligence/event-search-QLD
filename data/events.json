@@ -1,11 +1,11 @@
 [
     {
         "id": "diagnostic_1",
-        "title": "SYSTEM LOG: 316 Raw Pulled, 316 Passed Filter",
-        "description": "UQ Scraped: 316 | Web Scraped: 0 | Error Log: None",
+        "title": "SYSTEM LOG: 317 Raw Pulled, 317 Passed Filter",
+        "description": "UQ Scraped: 317 | Web Scraped: 0 | Error Log: None",
         "host_organization": "System Diagnostic",
         "location": "Brisbane CBD",
-        "date": "2026-06-04T21:28:12.209728",
+        "date": "2026-06-11T21:59:33.972848",
         "url": "#",
         "tier": "Tier 1: Brisbane CBD",
         "matched_topics": [
@@ -13,12 +13,12 @@
         ]
     },
     {
-        "id": "uq_-2640234436915739226",
+        "id": "uq_-8458356172844236433",
         "title": "UQ Brisbane City Building and History Tours",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463882",
+        "date": "2026-06-11T21:59:30.150818",
         "url": "https://events.uq.edu.au/event/session/26409",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -27,54 +27,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-820925737777434463",
-        "title": "Masterclass with Carolyn Christov-Bakargiev",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463908",
-        "url": "https://events.uq.edu.au/event/session/26817",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_-3290430550863827725",
-        "title": "Friends of Antiquity Sunday Series: The Ancient Athenian Games that Rivalled the Olympics",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463920",
-        "url": "https://events.uq.edu.au/event/session/26830",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_4318812957071033508",
-        "title": "Master of Physiotherapy information webinar",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463933",
-        "url": "https://events.uq.edu.au/event/session/26811",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_7100966665445799390",
+        "id": "uq_7403974034078133900",
         "title": "Getting Ghosted? Here's How to Secure a Job Interview",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463946",
+        "date": "2026-06-11T21:59:30.150843",
         "url": "https://events.uq.edu.au/event/session/26820",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -83,12 +41,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4947617564615789916",
+        "id": "uq_-164943472858213748",
         "title": "UQ Postgrad Ready",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463959",
+        "date": "2026-06-11T21:59:30.150855",
         "url": "https://events.uq.edu.au/event/session/26787",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -97,12 +55,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7673870494509165050",
+        "id": "uq_2363273676046872401",
         "title": "Against the Protocols of the Civilised Body: Workshop with Access Lab and Library",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463972",
+        "date": "2026-06-11T21:59:30.150872",
         "url": "https://events.uq.edu.au/event/session/26812",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -111,12 +69,26 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7174401082207089505",
+        "id": "uq_-678042731747752492",
+        "title": "[Sold out] Museum After Dark: Croc Discoveries with UQ and the Irwins",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.150881",
+        "url": "https://events.uq.edu.au/event/session/26839",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_2594324792836372821",
         "title": "Against the Protocols of the Civilised Body: Performance with Access Lab and Library",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.463982",
+        "date": "2026-06-11T21:59:30.150893",
         "url": "https://events.uq.edu.au/event/session/26816",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -125,12 +97,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1791203024042896543",
+        "id": "uq_8716167518406194712",
         "title": "Speech Pathology Studies Masterclass",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464001",
+        "date": "2026-06-11T21:59:30.150904",
         "url": "https://events.uq.edu.au/event/session/26786",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -139,12 +111,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5497703467779161562",
+        "id": "uq_-612556228480355039",
         "title": "Future Ready with AI (workshop for teachers)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464014",
+        "date": "2026-06-11T21:59:30.150915",
         "url": "https://events.uq.edu.au/event/session/26831",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -153,12 +125,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_4347654174249933353",
+        "id": "uq_-3405274643347031286",
         "title": "UQ Alumni Friday Drinks",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464027",
+        "date": "2026-06-11T21:59:30.150926",
         "url": "https://events.uq.edu.au/event/session/26798",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -167,26 +139,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4835214727737406264",
-        "title": "Building Business Excellence Masterclass \u2013 Mackay",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464041",
-        "url": "https://events.uq.edu.au/event/session/26761",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_1863369734921002981",
+        "id": "uq_2523619679062646956",
         "title": "Bachelor of Dental Science Class of 1976 50-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464055",
+        "date": "2026-06-11T21:59:30.150938",
         "url": "https://events.uq.edu.au/event/session/26790",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -195,12 +153,26 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7005609223623526525",
+        "id": "uq_-2700887557364813485",
+        "title": "Building Business Excellence Masterclass \u2013 Mackay",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.150953",
+        "url": "https://events.uq.edu.au/event/session/26761",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_2609138578807685819",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 2006 Reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464068",
+        "date": "2026-06-11T21:59:30.150964",
         "url": "https://events.uq.edu.au/event/session/26796",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -209,12 +181,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-244837002118784396",
+        "id": "uq_-2780516749903115005",
         "title": "Engineering in Action",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464081",
+        "date": "2026-06-11T21:59:30.150976",
         "url": "https://events.uq.edu.au/event/session/26789",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -223,12 +195,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3148081913855173595",
+        "id": "uq_-366947543286196153",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 2016 10-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464094",
+        "date": "2026-06-11T21:59:30.150987",
         "url": "https://events.uq.edu.au/event/session/26826",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -237,12 +209,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8458825711011402688",
+        "id": "uq_-2146813557141179462",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 1986 40-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464107",
+        "date": "2026-06-11T21:59:30.150998",
         "url": "https://events.uq.edu.au/event/session/26814",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -251,12 +223,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6096844478621550242",
+        "id": "uq_9013081996755869783",
         "title": "Building Business Excellence Masterclass \u2013 Longreach",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464121",
+        "date": "2026-06-11T21:59:30.151009",
         "url": "https://events.uq.edu.au/event/session/26760",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -265,12 +237,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8805820931333346700",
+        "id": "uq_-5647943154463788755",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 1996 30-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464131",
+        "date": "2026-06-11T21:59:30.151018",
         "url": "https://events.uq.edu.au/event/session/26837",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -279,12 +251,54 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3142459648092621195",
+        "id": "uq_-3204463839002588368",
+        "title": "Master of Physiotherapy information webinar",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.151028",
+        "url": "https://events.uq.edu.au/event/session/26811",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-2278809469760553203",
+        "title": "Friends of Antiquity Sunday Series: The Ancient Athenian Games that Rivalled the Olympics",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.151036",
+        "url": "https://events.uq.edu.au/event/session/26830",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-2186353475365276462",
+        "title": "Masterclass with Carolyn Christov-Bakargiev",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.151045",
+        "url": "https://events.uq.edu.au/event/session/26817",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-7075495267654045561",
         "title": "Between the Angelic and the Agentic: A Curatorial Autobiography by Carolyn Christov-Bakargiev",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464144",
+        "date": "2026-06-11T21:59:30.151054",
         "url": "https://events.uq.edu.au/event/session/26818",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -293,12 +307,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2348848205198317897",
+        "id": "uq_8933006781386849526",
         "title": "Orchestral Visions: Rituals of the Street",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464154",
+        "date": "2026-06-11T21:59:30.151063",
         "url": "https://events.uq.edu.au/event/session/26828",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -307,12 +321,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7233487638859341817",
+        "id": "uq_-4954539589698574696",
         "title": "Young Alumni Friday Drinks",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464164",
+        "date": "2026-06-11T21:59:30.151073",
         "url": "https://events.uq.edu.au/event/session/26797",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -321,12 +335,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6401150434740547078",
+        "id": "uq_2193626335526374015",
         "title": "Threads of Identity: Stories of Fashioned Portrait",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464175",
+        "date": "2026-06-11T21:59:30.151082",
         "url": "https://events.uq.edu.au/event/session/26827",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -335,12 +349,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6898922633446989622",
+        "id": "uq_2294094745781467696",
         "title": "UQ Alumni and Friends Reception in New Delhi",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464185",
+        "date": "2026-06-11T21:59:30.151090",
         "url": "https://events.uq.edu.au/event/session/26819",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -349,12 +363,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1165772778752908805",
+        "id": "uq_-2204785860446734985",
         "title": "UQ Postgrad and Careers Night \u2013 Sydney",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464195",
+        "date": "2026-06-11T21:59:30.151100",
         "url": "https://events.uq.edu.au/event/session/26784",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -363,12 +377,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_105415096913818935",
+        "id": "uq_6883615489351848937",
         "title": "The Art of the Side Hustle: How to Get Started and Keep Going",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464208",
+        "date": "2026-06-11T21:59:30.151109",
         "url": "https://events.uq.edu.au/event/session/26808",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -377,12 +391,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3636447407682436990",
+        "id": "uq_-7494987998332876710",
         "title": "Naida Haxton Lecture 2026",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464217",
+        "date": "2026-06-11T21:59:30.151118",
         "url": "https://events.uq.edu.au/event/session/26815",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -391,12 +405,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2827684920970389143",
+        "id": "uq_1154954344776452456",
         "title": "Queer Fest 2026",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464228",
+        "date": "2026-06-11T21:59:30.151126",
         "url": "https://events.uq.edu.au/event/session/26810",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -405,12 +419,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5666269682277717417",
+        "id": "uq_6620599032739830105",
         "title": "UQ Arts | Music by the Lakes festival",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464240",
+        "date": "2026-06-11T21:59:30.151136",
         "url": "https://events.uq.edu.au/event/session/26795",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -419,12 +433,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2901972815864268918",
+        "id": "uq_4876337967419910235",
         "title": "Cheese, Chats and Cretaceous Creatures: Celebrating the Inaugural Queensland Dinosaur Week",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464252",
+        "date": "2026-06-11T21:59:30.151145",
         "url": "https://events.uq.edu.au/event/session/26802",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -433,12 +447,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6522255647964476741",
+        "id": "uq_-8558400595445454694",
         "title": "Friends of Antiquity Sunday Series: From Scraps of Papyrus to a Thriving Museum \u2013 the Value of Antiquities Collections",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464262",
+        "date": "2026-06-11T21:59:30.151153",
         "url": "https://events.uq.edu.au/event/session/26794",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -447,12 +461,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6949766752753656646",
+        "id": "uq_-2843532264684053401",
         "title": "Molecular Maverick Pitch Event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464272",
+        "date": "2026-06-11T21:59:30.151161",
         "url": "https://events.uq.edu.au/event/session/26785",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -461,12 +475,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7287535354102621937",
+        "id": "uq_-1041784212819930427",
         "title": "Building Business Excellence Masterclass \u2013 Sunshine Coast",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464283",
+        "date": "2026-06-11T21:59:30.151169",
         "url": "https://events.uq.edu.au/event/session/26762",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -475,12 +489,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8886759929105982692",
+        "id": "uq_-7504234855129314796",
         "title": "UQ Alumni Gathering in Dublin",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464293",
+        "date": "2026-06-11T21:59:30.151177",
         "url": "https://events.uq.edu.au/event/session/26778",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -489,12 +503,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5272836251843702483",
+        "id": "uq_2107630434403069152",
         "title": "Learn From Alumni: Start Preparing for Life After Uni",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464319",
+        "date": "2026-06-11T21:59:30.151185",
         "url": "https://events.uq.edu.au/event/session/26791",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -503,12 +517,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7541118237304825460",
+        "id": "uq_-5275071307824642968",
         "title": "UQ Alumni and Friends Reception in London",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464330",
+        "date": "2026-06-11T21:59:30.151193",
         "url": "https://events.uq.edu.au/event/session/26777",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -517,12 +531,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-68247625690112481",
+        "id": "uq_2109279770276369145",
         "title": "2026 UQ Oxford Black-Tie Dinner",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464340",
+        "date": "2026-06-11T21:59:30.151201",
         "url": "https://events.uq.edu.au/event/session/26753",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -531,12 +545,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5918627355376701292",
+        "id": "uq_2071907948276631433",
         "title": "Occupational Therapy Studies Masterclass",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464352",
+        "date": "2026-06-11T21:59:30.151211",
         "url": "https://events.uq.edu.au/event/session/26788",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -545,12 +559,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7936728445567915629",
+        "id": "uq_-683832600726495323",
         "title": "UQ Alumni Gathering in Tokyo, Japan",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464371",
+        "date": "2026-06-11T21:59:30.151226",
         "url": "https://events.uq.edu.au/event/session/26779",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -559,12 +573,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5660246224786815253",
+        "id": "uq_2592320637853610271",
         "title": "Making Maths Matter \u2013 professional learning day for teachers",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464381",
+        "date": "2026-06-11T21:59:30.151235",
         "url": "https://events.uq.edu.au/event/session/26751",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -573,12 +587,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4081069435846948244",
+        "id": "uq_4911530476227654101",
         "title": "Cheese and Chats: Endometriosis, Together in Discovery",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464390",
+        "date": "2026-06-11T21:59:30.151243",
         "url": "https://events.uq.edu.au/event/session/26771",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -587,12 +601,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5205459039110037794",
+        "id": "uq_-2132857606155224528",
         "title": "Building Business Excellence Masterclass \u2013 Gold Coast",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464401",
+        "date": "2026-06-11T21:59:30.151251",
         "url": "https://events.uq.edu.au/event/session/26758",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -601,12 +615,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4669631472978682726",
+        "id": "uq_297382994544459619",
         "title": "Friends of Antiquity Ancient History Day",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464412",
+        "date": "2026-06-11T21:59:30.151259",
         "url": "https://events.uq.edu.au/event/session/26747",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -615,12 +629,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7347445268429283576",
+        "id": "uq_-4192277082896425319",
         "title": "3T Event: Ageing Well with a Healthy Brain (sold out)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464422",
+        "date": "2026-06-11T21:59:30.151267",
         "url": "https://events.uq.edu.au/event/session/26776",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -629,12 +643,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5933337192298804919",
+        "id": "uq_-1476860219721971983",
         "title": "Alumni After Hours: rooftop drinks for young alumni",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464432",
+        "date": "2026-06-11T21:59:30.151277",
         "url": "https://events.uq.edu.au/event/session/26763",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -643,12 +657,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8748217704840488652",
+        "id": "uq_-4006242970979805531",
         "title": "Learn how you can get involved in reconciliation at UQ",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464492",
+        "date": "2026-06-11T21:59:30.151347",
         "url": "https://events.uq.edu.au/event/session/26744",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -657,12 +671,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4993433904323002133",
+        "id": "uq_4115296989318806793",
         "title": "Her Voice in Science: International Day of Women and Girls in Science (sold out)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464505",
+        "date": "2026-06-11T21:59:30.151356",
         "url": "https://events.uq.edu.au/event/session/26746",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -671,12 +685,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7770642307506045666",
+        "id": "uq_466298053575275751",
         "title": "Friends of Antiquity Adrian Heyworth-Smith Memorial Lecture: Machiavelli and Rome",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464514",
+        "date": "2026-06-11T21:59:30.151366",
         "url": "https://events.uq.edu.au/event/session/26748",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -685,12 +699,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7598396593990318839",
+        "id": "uq_-5502988795301454153",
         "title": "UQ Sport Aquatic Centre Family Fun Day",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464525",
+        "date": "2026-06-11T21:59:30.151375",
         "url": "https://events.uq.edu.au/event/session/26743",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -699,12 +713,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5481952672187844983",
+        "id": "uq_2288749657259072460",
         "title": "Reimagining Boyhood Conference",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464537",
+        "date": "2026-06-11T21:59:30.151383",
         "url": "https://events.uq.edu.au/event/session/26703",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -713,12 +727,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1358566163185292608",
+        "id": "uq_-1716360856662416918",
         "title": "Engaging Minds in IT",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464547",
+        "date": "2026-06-11T21:59:30.151391",
         "url": "https://events.uq.edu.au/event/session/26650",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -727,12 +741,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-295175638096446632",
+        "id": "uq_-8772792474487169855",
         "title": "Postgraduate educational studies webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464557",
+        "date": "2026-06-11T21:59:30.151399",
         "url": "https://events.uq.edu.au/event/session/26612",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -741,12 +755,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8766621297513405475",
+        "id": "uq_-5772402848667446576",
         "title": "2025 Gatton Back to College Weekend",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464566",
+        "date": "2026-06-11T21:59:30.151407",
         "url": "https://events.uq.edu.au/event/session/26016",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -755,12 +769,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2200192282122051331",
+        "id": "uq_6473314805924015939",
         "title": "Enter our photo competition for a chance to win a $200 Apple digital gift card!",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464577",
+        "date": "2026-06-11T21:59:30.151417",
         "url": "https://events.uq.edu.au/event/session/26727",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -769,12 +783,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6766000541394566105",
+        "id": "uq_-8884681684641624637",
         "title": "2025 Nesbit Endowed Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464595",
+        "date": "2026-06-11T21:59:30.151431",
         "url": "https://events.uq.edu.au/event/session/26702",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -783,12 +797,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2138598134627019576",
+        "id": "uq_7137531594311978106",
         "title": "Masterclass and mixer: evaluating energy technologies in a changing world",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464613",
+        "date": "2026-06-11T21:59:30.151447",
         "url": "https://events.uq.edu.au/event/session/26699",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -797,12 +811,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6737266337664975803",
+        "id": "uq_-6630686791111515848",
         "title": "Young alumni Friday drinks",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464622",
+        "date": "2026-06-11T21:59:30.151456",
         "url": "https://events.uq.edu.au/event/session/26700",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -811,12 +825,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-883992166694559105",
+        "id": "uq_-820055318830091509",
         "title": "2025 UQ Rugby Benefit Dinner in New York",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464631",
+        "date": "2026-06-11T21:59:30.151464",
         "url": "https://events.uq.edu.au/event/session/26662",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -825,12 +839,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5712135679963913026",
+        "id": "uq_9138511313446109573",
         "title": "18th Annual Latin America Colloquium",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464641",
+        "date": "2026-06-11T21:59:30.151472",
         "url": "https://events.uq.edu.au/event/session/26701",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -839,12 +853,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4019080595859196083",
+        "id": "uq_-6384385637712699423",
         "title": "2025 Jian Zhou Memorial Oration: turning 'type-one\u2019 into 'type-none\u2019: the mission to stop type 1 diabetes",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464651",
+        "date": "2026-06-11T21:59:30.151480",
         "url": "https://events.uq.edu.au/event/session/26649",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -853,12 +867,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4210547938052264085",
+        "id": "uq_6942497936593944754",
         "title": "Friends of Antiquity 2025 RD Milns Memorial Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464662",
+        "date": "2026-06-11T21:59:30.151488",
         "url": "https://events.uq.edu.au/event/session/26674",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -867,12 +881,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1184416608381196597",
+        "id": "uq_-4102774444047886834",
         "title": "Master of Laws information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464671",
+        "date": "2026-06-11T21:59:30.151496",
         "url": "https://events.uq.edu.au/event/session/26641",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -881,12 +895,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1382724552655332704",
+        "id": "uq_4542540607092522085",
         "title": "Beyond the boundaries: the newest discoveries shaping your future",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464683",
+        "date": "2026-06-11T21:59:30.151504",
         "url": "https://events.uq.edu.au/event/session/26675",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -895,12 +909,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5140252121135590861",
+        "id": "uq_6381695296803980751",
         "title": "Master Your Career Expo",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464692",
+        "date": "2026-06-11T21:59:30.151514",
         "url": "https://events.uq.edu.au/event/session/26611",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -909,12 +923,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6473861329589297347",
+        "id": "uq_-4324610102480058237",
         "title": "UQ Big Band performance with Walter Taylor Ward",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464702",
+        "date": "2026-06-11T21:59:30.151522",
         "url": "https://events.uq.edu.au/event/session/26647",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -923,12 +937,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8070154608769020622",
+        "id": "uq_-649789627736275569",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 1975 50-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464712",
+        "date": "2026-06-11T21:59:30.151530",
         "url": "https://events.uq.edu.au/event/session/26605",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -937,12 +951,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3214549745459866394",
+        "id": "uq_3035602632632037111",
         "title": "Master of Teaching information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464723",
+        "date": "2026-06-11T21:59:30.151539",
         "url": "https://events.uq.edu.au/event/session/26613",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -951,12 +965,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5644294610434776111",
+        "id": "uq_-4292924929329916190",
         "title": "UQ Ventures Giving Day 5k",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464733",
+        "date": "2026-06-11T21:59:30.151550",
         "url": "https://events.uq.edu.au/event/session/26672",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -965,12 +979,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8012060599304937173",
+        "id": "uq_9096636675429731728",
         "title": "UQ Alumni Reception in London",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464743",
+        "date": "2026-06-11T21:59:30.151560",
         "url": "https://events.uq.edu.au/event/session/25343",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -979,12 +993,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9222977915709075631",
+        "id": "uq_5119336736945144244",
         "title": "Alumni and community events",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464753",
+        "date": "2026-06-11T21:59:30.151568",
         "url": "https://events.uq.edu.au/event/session/26676",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -993,12 +1007,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2708551757083121858",
+        "id": "uq_-2085383071069465846",
         "title": "CoralWatch screening of David Attenborough's Ocean",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464765",
+        "date": "2026-06-11T21:59:30.151575",
         "url": "https://events.uq.edu.au/event/session/26660",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1007,12 +1021,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7217345107100533017",
+        "id": "uq_217938106644728755",
         "title": "UQ alumni and friends reception in Singapore",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464775",
+        "date": "2026-06-11T21:59:30.151583",
         "url": "https://events.uq.edu.au/event/session/26661",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1021,12 +1035,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4884372773079317605",
+        "id": "uq_3018906797352821491",
         "title": "Learn a language:  spring short courses for beginners",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464785",
+        "date": "2026-06-11T21:59:30.151591",
         "url": "https://events.uq.edu.au/event/session/26584",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1035,12 +1049,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7546810396495049693",
+        "id": "uq_-7069325989341865983",
         "title": "Friends of Antiquity Sunday Series: night vision \u2013 what did Greeks and Romans do at night?",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464795",
+        "date": "2026-06-11T21:59:30.151599",
         "url": "https://events.uq.edu.au/event/session/26634",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1049,12 +1063,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8876577372123843865",
+        "id": "uq_-8620615736569895685",
         "title": "3T event: innovation for the future \u2013 experience UQ Gatton",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464805",
+        "date": "2026-06-11T21:59:30.151608",
         "url": "https://events.uq.edu.au/event/session/26642",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1063,12 +1077,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_697467770705052723",
+        "id": "uq_-6326139222929790912",
         "title": "Resilience and Reverie",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464815",
+        "date": "2026-06-11T21:59:30.151616",
         "url": "https://events.uq.edu.au/event/session/26610",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1077,12 +1091,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7428363351603894900",
+        "id": "uq_2061640410565436434",
         "title": "Boyce Gardens at Toowoomba Carnival of Flowers",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464825",
+        "date": "2026-06-11T21:59:30.151624",
         "url": "https://events.uq.edu.au/event/session/26527",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1091,12 +1105,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6749094947500335638",
+        "id": "uq_5920040445398094939",
         "title": "Data literacy for educators",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464835",
+        "date": "2026-06-11T21:59:30.151631",
         "url": "https://events.uq.edu.au/event/session/26450",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1105,12 +1119,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9222977915709075631",
+        "id": "uq_5119336736945144244",
         "title": "Alumni and community events",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464845",
+        "date": "2026-06-11T21:59:30.151640",
         "url": "https://events.uq.edu.au/event/session/26663",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1119,12 +1133,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2601417603075757917",
+        "id": "uq_105716845447752685",
         "title": "Carrying the past, creating the future: Aunty Sana Balai in conversation with Jocelyn Flynn",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464864",
+        "date": "2026-06-11T21:59:30.151654",
         "url": "https://events.uq.edu.au/event/session/26644",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1133,12 +1147,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4329751190448805587",
+        "id": "uq_-123772828144823766",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 2005 20-year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464873",
+        "date": "2026-06-11T21:59:30.151663",
         "url": "https://events.uq.edu.au/event/session/26529",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1147,12 +1161,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1343081586641893589",
+        "id": "uq_7898381628983395994",
         "title": "Behind the headline: the real impact of tariff wars",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464884",
+        "date": "2026-06-11T21:59:30.151671",
         "url": "https://events.uq.edu.au/event/session/26646",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1161,12 +1175,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6728126847448517018",
+        "id": "uq_-7723246221302206196",
         "title": "2026 Young Alumni Board applications",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464893",
+        "date": "2026-06-11T21:59:30.151679",
         "url": "https://events.uq.edu.au/event/session/26656",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1175,12 +1189,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-751772471824789311",
+        "id": "uq_-4854311304558777029",
         "title": "Cheese and Chats: is AI taking over officiating in modern sport?",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464903",
+        "date": "2026-06-11T21:59:30.151688",
         "url": "https://events.uq.edu.au/event/session/26633",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1189,12 +1203,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_-5349991801764565018",
+        "id": "uq_-7808504446666602811",
         "title": "Friends of Antiquity Sunday Series: all about eels \u2013 Romans and other animals",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464913",
+        "date": "2026-06-11T21:59:30.151696",
         "url": "https://events.uq.edu.au/event/session/26629",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1203,12 +1217,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5245577814335905015",
+        "id": "uq_-4791246338429847217",
         "title": "SEEN movie screening",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464925",
+        "date": "2026-06-11T21:59:30.151704",
         "url": "https://events.uq.edu.au/event/session/26628",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1217,12 +1231,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8086578207181345017",
+        "id": "uq_9025549401914976599",
         "title": "AI in action",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464936",
+        "date": "2026-06-11T21:59:30.151714",
         "url": "https://events.uq.edu.au/event/session/26541",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1231,12 +1245,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_550168316072491629",
+        "id": "uq_-4719833340530414189",
         "title": "Swim into spring: Alumni Friends SwimFit and AquaFit programs",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464946",
+        "date": "2026-06-11T21:59:30.151723",
         "url": "https://events.uq.edu.au/event/session/26645",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1245,12 +1259,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3300621150926107246",
+        "id": "uq_-6433516983081403981",
         "title": "Sustain Queensland 2025: co-hosted summit on Queensland's transition economy and industry decarbonisation",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464965",
+        "date": "2026-06-11T21:59:30.151737",
         "url": "https://events.uq.edu.au/event/session/26620",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1259,12 +1273,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-89231777895170340",
+        "id": "uq_-3348260114589617121",
         "title": "Learn from alumni: tackling tough conversations",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464975",
+        "date": "2026-06-11T21:59:30.151747",
         "url": "https://events.uq.edu.au/event/session/26624",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1273,12 +1287,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5462673820023065608",
+        "id": "uq_7172527445182999168",
         "title": "Cheese and Chats: How one fossil redefined humanity",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464985",
+        "date": "2026-06-11T21:59:30.151755",
         "url": "https://events.uq.edu.au/event/session/26621",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1287,12 +1301,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3688005860596378275",
+        "id": "uq_5757376191662495058",
         "title": "When life adds up: the cumulative burden of skin disease \u2013 2025 Alan Cooper Epiderm Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.464995",
+        "date": "2026-06-11T21:59:30.151764",
         "url": "https://events.uq.edu.au/event/session/26615",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1301,12 +1315,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4380584121306313856",
+        "id": "uq_4158896219115132303",
         "title": "Dive into discovery: crocodiles, sharks and science in Cairns",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465005",
+        "date": "2026-06-11T21:59:30.151772",
         "url": "https://events.uq.edu.au/event/session/26614",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1315,12 +1329,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3124097138829348387",
+        "id": "uq_4138299019045711170",
         "title": "Friends of Antiquity Milns Visiting Scholar Sunday Series: styles and status \u2013 Roman women and the art of hair",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465016",
+        "date": "2026-06-11T21:59:30.151780",
         "url": "https://events.uq.edu.au/event/session/26622",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1329,12 +1343,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2528645801963586020",
+        "id": "uq_6688885523258369307",
         "title": "Building Business Excellence in Bundaberg: Strategies for transformative customer experience",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465028",
+        "date": "2026-06-11T21:59:30.151788",
         "url": "https://events.uq.edu.au/event/session/26586",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1343,12 +1357,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3114433698277296719",
+        "id": "uq_-5737466548199674769",
         "title": "UQ Talks: building bright futures through cultural strength",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465039",
+        "date": "2026-06-11T21:59:30.151796",
         "url": "https://events.uq.edu.au/event/session/26609",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1357,12 +1371,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6693283100407910605",
+        "id": "uq_4972799396198128768",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 1985 40-year reunion (sold out)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465050",
+        "date": "2026-06-11T21:59:30.151804",
         "url": "https://events.uq.edu.au/event/session/26509",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1371,12 +1385,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_435079546947440521",
+        "id": "uq_4548600652487259599",
         "title": "How to become a (great) manager",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465068",
+        "date": "2026-06-11T21:59:30.151818",
         "url": "https://events.uq.edu.au/event/session/26457",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1385,12 +1399,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3658187950784520012",
+        "id": "uq_-1751378127664726914",
         "title": "QBI Lexus Alzheimer's Sunset Soiree",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465081",
+        "date": "2026-06-11T21:59:30.151826",
         "url": "https://events.uq.edu.au/event/session/26497",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1399,12 +1413,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5176503179349390503",
+        "id": "uq_-7622765603046884274",
         "title": "Future ready with AI: empowering educators with practical AI knowledge and tools",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465090",
+        "date": "2026-06-11T21:59:30.151834",
         "url": "https://events.uq.edu.au/event/session/26447",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1413,12 +1427,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_6142966780645757319",
+        "id": "uq_-945271164430472427",
         "title": "Think before you click: cyber security 101",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465101",
+        "date": "2026-06-11T21:59:30.151842",
         "url": "https://events.uq.edu.au/event/session/26608",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1427,12 +1441,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6737266337664975803",
-        "title": "Young alumni Friday drinks",
+        "id": "uq_-4954539589698574696",
+        "title": "Young Alumni Friday Drinks",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465111",
+        "date": "2026-06-11T21:59:30.151849",
         "url": "https://events.uq.edu.au/event/session/26462",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1441,12 +1455,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1348624059279103433",
+        "id": "uq_3169519481243821195",
         "title": "3T event: discover the future of pharmacy at UQ Dutton Park",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465122",
+        "date": "2026-06-11T21:59:30.151857",
         "url": "https://events.uq.edu.au/event/session/26606",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1455,12 +1469,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2206548295067052705",
+        "id": "uq_-517260219641310480",
         "title": "Quantum Year National Tour public lecture and fireside chat with Professor Donna Strickland",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465132",
+        "date": "2026-06-11T21:59:30.151865",
         "url": "https://events.uq.edu.au/event/session/26587",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1469,12 +1483,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3706414833106698538",
+        "id": "uq_6684693558487975543",
         "title": "Writing for Truth Telling: Dr Jackie Huggins in conversation with Cheryl Leavy at Sun Stadium",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465142",
+        "date": "2026-06-11T21:59:30.151875",
         "url": "https://events.uq.edu.au/event/session/26597",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1483,12 +1497,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8289684267431827628",
+        "id": "uq_-2367998255572521508",
         "title": "Friends of Antiquity AGM and Sunday Series: from Tartarus to Infernus \u2013 classical figures in Dante's Inferno",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465155",
+        "date": "2026-06-11T21:59:30.151886",
         "url": "https://events.uq.edu.au/event/session/26603",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1497,12 +1511,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1114854881530656280",
+        "id": "uq_4875296382872590084",
         "title": "UQ Centre for Motor Neuron Disease (MND) Research Open Day",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465166",
+        "date": "2026-06-11T21:59:30.151894",
         "url": "https://events.uq.edu.au/event/session/26585",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1511,12 +1525,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1590212748614160662",
+        "id": "uq_-4427842128067038914",
         "title": "Nobody's Listening: The Forgotten Voices of Sinjar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465176",
+        "date": "2026-06-11T21:59:30.151902",
         "url": "https://events.uq.edu.au/event/session/26604",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1525,12 +1539,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1647451098911458523",
+        "id": "uq_7123865756848918458",
         "title": "Awaken your inner linguist: IML semester 2 courses",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465187",
+        "date": "2026-06-11T21:59:30.151910",
         "url": "https://events.uq.edu.au/event/session/26581",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1539,12 +1553,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7349425888524866822",
+        "id": "uq_-8731495385335140949",
         "title": "Smart money: tips for saving, spending and tax",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465197",
+        "date": "2026-06-11T21:59:30.151917",
         "url": "https://events.uq.edu.au/event/session/26583",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1553,12 +1567,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8090223279611830511",
+        "id": "uq_2005955687112019812",
         "title": "2025 Hall Annual Lecture: Bones, Stones, Crocodiles and Origins \u2013 New Paleoanthropological Evidence from Africa",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465207",
+        "date": "2026-06-11T21:59:30.151925",
         "url": "https://events.uq.edu.au/event/session/26512",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1567,12 +1581,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-788927283428388042",
+        "id": "uq_3878257479288040176",
         "title": "Master of Medicine (Skin Cancer) information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465217",
+        "date": "2026-06-11T21:59:30.151933",
         "url": "https://events.uq.edu.au/event/session/26505",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1581,12 +1595,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7777159282052816916",
+        "id": "uq_-1179934877437227399",
         "title": "Building back for a resilient future",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465228",
+        "date": "2026-06-11T21:59:30.151940",
         "url": "https://events.uq.edu.au/event/session/26469",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1595,12 +1609,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8203349591588470647",
+        "id": "uq_-1406861822417391204",
         "title": "Townsville Alumni and Community Event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465238",
+        "date": "2026-06-11T21:59:30.151948",
         "url": "https://events.uq.edu.au/event/session/26534",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1609,12 +1623,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2849884478763341270",
+        "id": "uq_2204592205951578791",
         "title": "Postgraduate Clinical Informatics and Digital Health info webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465247",
+        "date": "2026-06-11T21:59:30.151961",
         "url": "https://events.uq.edu.au/event/session/26506",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1623,12 +1637,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1632979292572022655",
+        "id": "uq_-1383015492222967998",
         "title": "Building Business Excellence: Monetising data for strategic impact \u2013 Townsville",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465257",
+        "date": "2026-06-11T21:59:30.151969",
         "url": "https://events.uq.edu.au/event/session/26531",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1637,12 +1651,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4772141406571359999",
+        "id": "uq_-8732334952808455011",
         "title": "QBI Brain Research Endowment Fund Dinner",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465266",
+        "date": "2026-06-11T21:59:30.151977",
         "url": "https://events.uq.edu.au/event/session/26508",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1651,12 +1665,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4947617564615789916",
+        "id": "uq_-164943472858213748",
         "title": "UQ Postgrad Ready",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465276",
+        "date": "2026-06-11T21:59:30.151984",
         "url": "https://events.uq.edu.au/event/session/26464",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1665,12 +1679,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2847653075554079461",
+        "id": "uq_1731176259562393846",
         "title": "Orchestral Visions",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465287",
+        "date": "2026-06-11T21:59:30.151992",
         "url": "https://events.uq.edu.au/event/session/26533",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1679,12 +1693,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_882366226103173059",
+        "id": "uq_-602464300693958068",
         "title": "Friends of Antiquity Sunday Series: Travels in Greece",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465310",
+        "date": "2026-06-11T21:59:30.152000",
         "url": "https://events.uq.edu.au/event/session/26537",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1693,12 +1707,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2509775186753902116",
+        "id": "uq_3905020429154840014",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 2015 10 year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465321",
+        "date": "2026-06-11T21:59:30.152008",
         "url": "https://events.uq.edu.au/event/session/26408",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1707,12 +1721,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8919462066722332799",
+        "id": "uq_-6129013969200495223",
         "title": "The birth of portraiture and the divine",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465331",
+        "date": "2026-06-11T21:59:30.152016",
         "url": "https://events.uq.edu.au/event/session/26525",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1721,12 +1735,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4141534472176741796",
+        "id": "uq_7051586410203180912",
         "title": "The Mattick Lecture - Scientists in the Courtroom",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465341",
+        "date": "2026-06-11T21:59:30.152024",
         "url": "https://events.uq.edu.au/event/session/26500",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1735,12 +1749,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3824654236167441876",
+        "id": "uq_2996635505581975073",
         "title": "UQ Talks: the inclusion revolution with Andrew Parsons",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465352",
+        "date": "2026-06-11T21:59:30.152032",
         "url": "https://events.uq.edu.au/event/session/26526",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1749,12 +1763,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6755554734640518107",
+        "id": "uq_2874514241171052246",
         "title": "Age-Ed Carers' Cafe",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465364",
+        "date": "2026-06-11T21:59:30.152039",
         "url": "https://events.uq.edu.au/event/session/26536",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1763,12 +1777,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8808970035223311435",
+        "id": "uq_-6239099008763374557",
         "title": "Entangled Kin: Contaminant Conversations",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465374",
+        "date": "2026-06-11T21:59:30.152049",
         "url": "https://events.uq.edu.au/event/session/26532",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1777,12 +1791,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4042631272737364918",
+        "id": "uq_-8833547837826854740",
         "title": "Naida Haxton Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465384",
+        "date": "2026-06-11T21:59:30.152057",
         "url": "https://events.uq.edu.au/event/session/26504",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1791,12 +1805,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-493444821689910191",
+        "id": "uq_8310537019539318389",
         "title": "Cheese and Chats: tackling the looming global threat of antimicrobial resistance",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465394",
+        "date": "2026-06-11T21:59:30.152064",
         "url": "https://events.uq.edu.au/event/session/26443",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1805,12 +1819,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7214639815414061727",
+        "id": "uq_-8079051178753528685",
         "title": "Age-Ed Seminar: Decision-Making Capacity",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465404",
+        "date": "2026-06-11T21:59:30.152072",
         "url": "https://events.uq.edu.au/event/session/26538",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1819,12 +1833,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2605709702499925740",
+        "id": "uq_-7202584541476494758",
         "title": "Master of Finance and Investment Management information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465414",
+        "date": "2026-06-11T21:59:30.152080",
         "url": "https://events.uq.edu.au/event/session/26499",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1833,12 +1847,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5248006904267394033",
+        "id": "uq_1532917549090731096",
         "title": "Great Court Race",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465424",
+        "date": "2026-06-11T21:59:30.152088",
         "url": "https://events.uq.edu.au/event/session/26530",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1847,12 +1861,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3196510081825399153",
+        "id": "uq_8952168623201435416",
         "title": "Building Business Excellence: Strategies for transformative customer experience \u2013 Longreach",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465436",
+        "date": "2026-06-11T21:59:30.152095",
         "url": "https://events.uq.edu.au/event/session/26515",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1861,12 +1875,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1241217251961284852",
+        "id": "uq_-935013880286987502",
         "title": "Work habit hacks: early-career essentials",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465446",
+        "date": "2026-06-11T21:59:30.152103",
         "url": "https://events.uq.edu.au/event/session/26458",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1875,12 +1889,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_204210363542261759",
+        "id": "uq_-7603531982778444420",
         "title": "Biotech: past, present and future",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465456",
+        "date": "2026-06-11T21:59:30.152111",
         "url": "https://events.uq.edu.au/event/session/26523",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1889,12 +1903,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6827889282903879440",
+        "id": "uq_6359732760969967136",
         "title": "Domestic and Family Violence Awareness Month breakfast and industry panel",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465465",
+        "date": "2026-06-11T21:59:30.152119",
         "url": "https://events.uq.edu.au/event/session/26524",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1903,12 +1917,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-565870703126634253",
+        "id": "uq_-4078857406241841589",
         "title": "Language courses at The Atrium",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465475",
+        "date": "2026-06-11T21:59:30.152126",
         "url": "https://events.uq.edu.au/event/session/24080",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1917,12 +1931,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6662644594936103887",
+        "id": "uq_4649862603903168704",
         "title": "Building Business Excellence: Competing in the age of digital disruption \u2013 Sunshine Coast",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465484",
+        "date": "2026-06-11T21:59:30.152136",
         "url": "https://events.uq.edu.au/event/session/26513",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1931,12 +1945,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4765160121315013277",
+        "id": "uq_-5634119518565113698",
         "title": "Friends of Antiquity Sunday Series: Greece and the birth of medicine and law",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465494",
+        "date": "2026-06-11T21:59:30.152144",
         "url": "https://events.uq.edu.au/event/session/26507",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1945,12 +1959,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_-204156207795614267",
+        "id": "uq_-8383757694839285702",
         "title": "Bachelor of Medicine, Bachelor of Surgery Class of 1995 30 year reunion",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465503",
+        "date": "2026-06-11T21:59:30.152154",
         "url": "https://events.uq.edu.au/event/session/26398",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1959,12 +1973,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6969047992277975485",
+        "id": "uq_-1885720046759258389",
         "title": "Campus bird watching tour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465513",
+        "date": "2026-06-11T21:59:30.152161",
         "url": "https://events.uq.edu.au/event/session/26492",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1973,12 +1987,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4033654894513070524",
+        "id": "uq_-6350149644838679122",
         "title": "Drop-in science: join a supertaster experiment",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465524",
+        "date": "2026-06-11T21:59:30.152169",
         "url": "https://events.uq.edu.au/event/session/26486",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -1987,12 +2001,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4959077561580629512",
+        "id": "uq_7283646224158680158",
         "title": "UQ Alumni Travel Program information session",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465533",
+        "date": "2026-06-11T21:59:30.152177",
         "url": "https://events.uq.edu.au/event/session/26488",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2001,12 +2015,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9148183118700197728",
+        "id": "uq_3021913534765805459",
         "title": "Family Zumba",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465543",
+        "date": "2026-06-11T21:59:30.152184",
         "url": "https://events.uq.edu.au/event/session/26495",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2015,12 +2029,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2622950589734495358",
+        "id": "uq_-1885575949211351374",
         "title": "Inflatable obstacle course at the UQ Pool",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465553",
+        "date": "2026-06-11T21:59:30.152192",
         "url": "https://events.uq.edu.au/event/session/26496",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2029,12 +2043,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9259221853169298",
+        "id": "uq_4090315720636477279",
         "title": "Writing from life: how to tell your story",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465565",
+        "date": "2026-06-11T21:59:30.152201",
         "url": "https://events.uq.edu.au/event/session/26483",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2043,12 +2057,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7249430263688849959",
+        "id": "uq_7573601132641186082",
         "title": "Bridging markets: AI, clean energy and business opportunities between China and Australia",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465575",
+        "date": "2026-06-11T21:59:30.152208",
         "url": "https://events.uq.edu.au/event/session/26510",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2057,12 +2071,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_7839632116793461613",
+        "id": "uq_-5175756342752251495",
         "title": "In conversation: children's author Cheryl Leavy on motherhood, culture and connection",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465585",
+        "date": "2026-06-11T21:59:30.152217",
         "url": "https://events.uq.edu.au/event/session/26484",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2071,68 +2085,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5292709503027414380",
-        "title": "The powerhouse of the brain: how do our cells create the energy we need to think?",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465595",
-        "url": "https://events.uq.edu.au/event/session/26487",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_-7416562820108112484",
-        "title": "True Crime panel: behind the scenes with writers and scientists",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465604",
-        "url": "https://events.uq.edu.au/event/session/26482",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_2537623031887740989",
-        "title": "White glove tour at Fryer Library",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465614",
-        "url": "https://events.uq.edu.au/event/session/26490",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_9112112064245447672",
-        "title": "Tour of Anthropology Museum: stories through time",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465623",
-        "url": "https://events.uq.edu.au/event/session/26528",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_128359840598607640",
+        "id": "uq_-6011641509418720645",
         "title": "Building the future: School of Architecture, Design and Planning interactive marquee",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465633",
+        "date": "2026-06-11T21:59:30.152225",
         "url": "https://events.uq.edu.au/event/session/26476",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2141,12 +2099,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6800168135278958714",
+        "id": "uq_54540671906525719",
         "title": "Spectrum at the UQ Alumni Book Fair",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465643",
+        "date": "2026-06-11T21:59:30.152233",
         "url": "https://events.uq.edu.au/event/session/26485",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2155,12 +2113,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5169415709684412492",
+        "id": "uq_1523958691682296873",
         "title": "Junior Scientist Hub: IMB interactive marquee",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465652",
+        "date": "2026-06-11T21:59:30.152240",
         "url": "https://events.uq.edu.au/event/session/26477",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2169,12 +2127,68 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-752384071275610983",
+        "id": "uq_-2249219704275393813",
+        "title": "The powerhouse of the brain: how do our cells create the energy we need to think?",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152248",
+        "url": "https://events.uq.edu.au/event/session/26487",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-7235913031458732227",
+        "title": "True Crime panel: behind the scenes with writers and scientists",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152256",
+        "url": "https://events.uq.edu.au/event/session/26482",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-1522652003303986441",
+        "title": "White glove tour at Fryer Library",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152263",
+        "url": "https://events.uq.edu.au/event/session/26490",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_1002635776040779113",
+        "title": "Tour of Anthropology Museum: stories through time",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152271",
+        "url": "https://events.uq.edu.au/event/session/26528",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_167790010254225203",
         "title": "Bushtucker garden tour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465662",
+        "date": "2026-06-11T21:59:30.152278",
         "url": "https://events.uq.edu.au/event/session/26494",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2183,54 +2197,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7853660690286262436",
-        "title": "Storybook reading with the Witches of Oz",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465672",
-        "url": "https://events.uq.edu.au/event/session/26481",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_-3937769356048207496",
-        "title": "Campus art tour",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465682",
-        "url": "https://events.uq.edu.au/event/session/26489",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_-4450816154332448239",
-        "title": "Drop-in science: why is my lettuce dying?",
-        "description": "",
-        "host_organization": "UQ",
-        "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465691",
-        "url": "https://events.uq.edu.au/event/session/26491",
-        "tier": "Tier 2: Greater Brisbane",
-        "matched_topics": [
-            "University Broadcast"
-        ],
-        "is_university_dragnet": true
-    },
-    {
-        "id": "uq_6177366210592736221",
+        "id": "uq_443558291794920568",
         "title": "Ecological Lake tour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465700",
+        "date": "2026-06-11T21:59:30.152285",
         "url": "https://events.uq.edu.au/event/session/26493",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2239,12 +2211,54 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1522551053637087428",
+        "id": "uq_3340982724733584284",
+        "title": "Storybook reading with the Witches of Oz",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152293",
+        "url": "https://events.uq.edu.au/event/session/26481",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_1381382841228388930",
+        "title": "Campus art tour",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152300",
+        "url": "https://events.uq.edu.au/event/session/26489",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_5291742369089139873",
+        "title": "Drop-in science: why is my lettuce dying?",
+        "description": "",
+        "host_organization": "UQ",
+        "location": "St Lucia, Brisbane",
+        "date": "2026-06-11T21:59:30.152308",
+        "url": "https://events.uq.edu.au/event/session/26491",
+        "tier": "Tier 2: Greater Brisbane",
+        "matched_topics": [
+            "University Broadcast"
+        ],
+        "is_university_dragnet": true
+    },
+    {
+        "id": "uq_-2461809419485966443",
         "title": "Order your nostalgic UQ class t-shirt",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465710",
+        "date": "2026-06-11T21:59:30.152330",
         "url": "https://events.uq.edu.au/event/session/26479",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2253,12 +2267,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5257672463550614967",
+        "id": "uq_3350113649105704643",
         "title": "Mad Hatters tea party",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465720",
+        "date": "2026-06-11T21:59:30.152340",
         "url": "https://events.uq.edu.au/event/session/26480",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2267,12 +2281,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3751378858581660782",
+        "id": "uq_6649805375330778512",
         "title": "2025 UQ Rare Book Auction",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465729",
+        "date": "2026-06-11T21:59:30.152348",
         "url": "https://events.uq.edu.au/event/session/22934",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2281,12 +2295,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-850562527499713221",
+        "id": "uq_7663239293751500554",
         "title": "Growing kind, curious and clever children: in conversation with Madonna King and Rebecca Sparrow",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465741",
+        "date": "2026-06-11T21:59:30.152356",
         "url": "https://events.uq.edu.au/event/session/26475",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2295,12 +2309,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_141477539038305034",
+        "id": "uq_-8211013580848614504",
         "title": "Lakeside Rhythms in the Amphitheatre: 5 sessions and The Sounds of Avalon: Opening Gala",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465752",
+        "date": "2026-06-11T21:59:30.152363",
         "url": "https://events.uq.edu.au/event/session/26473",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2309,12 +2323,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3933117410187316564",
+        "id": "uq_6688996533004086001",
         "title": "UQ alumni networking event in Perth",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465763",
+        "date": "2026-06-11T21:59:30.152373",
         "url": "https://events.uq.edu.au/event/session/26472",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2323,12 +2337,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7285564146216308121",
+        "id": "uq_2445354377304518643",
         "title": "MBA information event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465773",
+        "date": "2026-06-11T21:59:30.152380",
         "url": "https://events.uq.edu.au/event/session/26465",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2337,12 +2351,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8659135230292079981",
+        "id": "uq_-3036487314211402781",
         "title": "UQ Talks: what AI can and can't do for you (yet)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465782",
+        "date": "2026-06-11T21:59:30.152388",
         "url": "https://events.uq.edu.au/event/session/26468",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2351,12 +2365,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_2605709702499925740",
+        "id": "uq_-7202584541476494758",
         "title": "Master of Finance and Investment Management information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465794",
+        "date": "2026-06-11T21:59:30.152395",
         "url": "https://events.uq.edu.au/event/session/26498",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2365,12 +2379,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8846711468617543758",
+        "id": "uq_9048041410712574486",
         "title": "ilab Accelerator Pitch Night",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465803",
+        "date": "2026-06-11T21:59:30.152403",
         "url": "https://events.uq.edu.au/event/session/26444",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2379,12 +2393,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-433732345193841303",
+        "id": "uq_-7896637625146934676",
         "title": "3T Event: inside the Integrated Pathology Learning Centre (Sold Out)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465813",
+        "date": "2026-06-11T21:59:30.152411",
         "url": "https://events.uq.edu.au/event/session/26470",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2393,12 +2407,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6315010465172979109",
+        "id": "uq_7977955231543663457",
         "title": "BrisScience: bringing quantum to life",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465822",
+        "date": "2026-06-11T21:59:30.152420",
         "url": "https://events.uq.edu.au/event/session/26463",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2407,12 +2421,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5932516683089651943",
+        "id": "uq_4705348034770833669",
         "title": "Young alumni drinks at BY.ARTISANS craft gin distillery",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465831",
+        "date": "2026-06-11T21:59:30.152428",
         "url": "https://events.uq.edu.au/event/session/26446",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2421,12 +2435,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6918459633311107232",
+        "id": "uq_1386992040357673071",
         "title": "UQ Economics Thought Leadership Series \u2013 Empowering women: policy intentions and outcomes",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465842",
+        "date": "2026-06-11T21:59:30.152436",
         "url": "https://events.uq.edu.au/event/session/26411",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2435,12 +2449,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7393250734050313559",
+        "id": "uq_-9105505855836274663",
         "title": "Student success through proactive data-driven engagement: presentation by Dr Tim Renick",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465853",
+        "date": "2026-06-11T21:59:30.152444",
         "url": "https://events.uq.edu.au/event/session/26461",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2449,12 +2463,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4397192339200059828",
+        "id": "uq_8505671318507110331",
         "title": "Feeding the future: Breaking new ground",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465862",
+        "date": "2026-06-11T21:59:30.152452",
         "url": "https://events.uq.edu.au/event/session/26442",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2463,12 +2477,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7206384198370377807",
+        "id": "uq_3404775443927938612",
         "title": "Mikhail Zygar on Putin\u2019s vision for the world",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465872",
+        "date": "2026-06-11T21:59:30.152459",
         "url": "https://events.uq.edu.au/event/session/26449",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2477,12 +2491,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1360078134359573853",
+        "id": "uq_-4296171079719872899",
         "title": "Labs Unlocked: ARC Centre of Excellence for Green Electrochemical Transformation of Carbon Dioxide (GETCO2)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465882",
+        "date": "2026-06-11T21:59:30.152467",
         "url": "https://events.uq.edu.au/event/session/26427",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2491,12 +2505,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1538142497028052681",
+        "id": "uq_-7224371030805536101",
         "title": "2025 Ancient History Day",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465892",
+        "date": "2026-06-11T21:59:30.152474",
         "url": "https://events.uq.edu.au/event/session/26445",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2505,12 +2519,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6553064917859406085",
+        "id": "uq_3219124672667151395",
         "title": "World Science Festival Brisbane: UQ alumni event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465902",
+        "date": "2026-06-11T21:59:30.152482",
         "url": "https://events.uq.edu.au/event/session/26441",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2519,12 +2533,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8077304087073274506",
+        "id": "uq_8684126749188138632",
         "title": "Women in Engineering Breakfast",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465912",
+        "date": "2026-06-11T21:59:30.152489",
         "url": "https://events.uq.edu.au/event/session/26429",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2533,12 +2547,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4459735131473279109",
+        "id": "uq_-8470593795606423582",
         "title": "Win a box of books at the 2025 UQ Alumni Book Fair",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465922",
+        "date": "2026-06-11T21:59:30.152497",
         "url": "https://events.uq.edu.au/event/session/26467",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2547,12 +2561,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5075426058829426028",
+        "id": "uq_-5137858273167597338",
         "title": "2025 McCallum Founder's Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465931",
+        "date": "2026-06-11T21:59:30.152505",
         "url": "https://events.uq.edu.au/event/session/26431",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2561,12 +2575,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6411998954623669577",
+        "id": "uq_8406510704467225738",
         "title": "Ultramarine Conversations: Recent water research in the Humanities, Arts and Social Sciences",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465941",
+        "date": "2026-06-11T21:59:30.152516",
         "url": "https://events.uq.edu.au/event/session/26425",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2575,12 +2589,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2099765135461791600",
+        "id": "uq_132681985648555184",
         "title": "Homegrown \u2013 Rebecca Cassidy and Alex Raineri",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465953",
+        "date": "2026-06-11T21:59:30.152526",
         "url": "https://events.uq.edu.au/event/session/26430",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2589,12 +2603,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_137351360510091064",
+        "id": "uq_4097667368406826981",
         "title": "Ventures 2025 programs: Applications close from 6 March",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465962",
+        "date": "2026-06-11T21:59:30.152533",
         "url": "https://events.uq.edu.au/event/session/26407",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2603,12 +2617,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-9103945899104725511",
+        "id": "uq_9093181430348627624",
         "title": "BrisScience \u2013 Unlocking the secrets of dinosaur footprints",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465971",
+        "date": "2026-06-11T21:59:30.152541",
         "url": "https://events.uq.edu.au/event/session/26426",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2617,12 +2631,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7439800111579457907",
+        "id": "uq_4186356221736139188",
         "title": "BLOCK PARTY",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465981",
+        "date": "2026-06-11T21:59:30.152548",
         "url": "https://events.uq.edu.au/event/session/26410",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2631,12 +2645,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-333596161877944668",
+        "id": "uq_414053967427930228",
         "title": "Feather Star (2 performances)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.465993",
+        "date": "2026-06-11T21:59:30.152556",
         "url": "https://events.uq.edu.au/event/session/26428",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2645,12 +2659,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8277315441428634047",
+        "id": "uq_-3775110156409559603",
         "title": "Research Handbook of Academic Mental Health book launch",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466002",
+        "date": "2026-06-11T21:59:30.152564",
         "url": "https://events.uq.edu.au/event/session/26406",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2659,12 +2673,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6117846526597474771",
+        "id": "uq_-2011132910790520596",
         "title": "Friends of Antiquity Adrian Heyworth-Smith Memorial Lecture: Suetonius on the Roman emperor as pater patriae (father of the fatherland)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466012",
+        "date": "2026-06-11T21:59:30.152572",
         "url": "https://events.uq.edu.au/event/session/26405",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2673,12 +2687,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1285839734123658067",
+        "id": "uq_-7722475004497028320",
         "title": "UQ alumni travel program",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466022",
+        "date": "2026-06-11T21:59:30.152579",
         "url": "https://events.uq.edu.au/event/session/26384",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2687,12 +2701,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7587996918146596070",
+        "id": "uq_-3551147539943362261",
         "title": "UQ School of Music presents Mozart's The Marriage of Figaro",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466032",
+        "date": "2026-06-11T21:59:30.152587",
         "url": "https://events.uq.edu.au/event/session/26383",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2701,12 +2715,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7522336429832920637",
+        "id": "uq_-7360999730683566108",
         "title": "Beyond Islandness: Experiments in Writing Relationally",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466042",
+        "date": "2026-06-11T21:59:30.152595",
         "url": "https://events.uq.edu.au/event/session/26333",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2715,12 +2729,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7220757036218409711",
+        "id": "uq_-6510360519965126167",
         "title": "Australia Battery Day",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466052",
+        "date": "2026-06-11T21:59:30.152602",
         "url": "https://events.uq.edu.au/event/session/26313",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2729,12 +2743,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8293791766795487587",
+        "id": "uq_-1327821947592970131",
         "title": "Cheese and Chats: Improving health equity",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466061",
+        "date": "2026-06-11T21:59:30.152610",
         "url": "https://events.uq.edu.au/event/session/26318",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2743,12 +2757,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-71018168789903714",
+        "id": "uq_110501551417139322",
         "title": "3T Event: Inside the heart of Queensland Ballet and the Thomas Dixon Centre",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466071",
+        "date": "2026-06-11T21:59:30.152617",
         "url": "https://events.uq.edu.au/event/session/26303",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2757,12 +2771,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7697448859785096327",
+        "id": "uq_-8718024319532859042",
         "title": "2024 Jian Zhou Oration",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466081",
+        "date": "2026-06-11T21:59:30.152625",
         "url": "https://events.uq.edu.au/event/session/26353",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2771,12 +2785,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3576245704429351469",
+        "id": "uq_398898429639836897",
         "title": "Steve Irwin Memorial Lecture and UQ family day at Australia Zoo \u2013 sold out",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466090",
+        "date": "2026-06-11T21:59:30.152633",
         "url": "https://events.uq.edu.au/event/session/26173",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2785,12 +2799,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4845489453404631374",
+        "id": "uq_-4470916969107427340",
         "title": "LeadHers Rise",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466099",
+        "date": "2026-06-11T21:59:30.152640",
         "url": "https://events.uq.edu.au/event/session/26308",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2799,12 +2813,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1876555179343231855",
+        "id": "uq_7260593993955042047",
         "title": "Destiny vs disease",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466109",
+        "date": "2026-06-11T21:59:30.152648",
         "url": "https://events.uq.edu.au/event/session/26183",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2813,12 +2827,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4427979773278814444",
+        "id": "uq_5278114339341757502",
         "title": "UQ Talks: unpacking the US election",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466120",
+        "date": "2026-06-11T21:59:30.152656",
         "url": "https://events.uq.edu.au/event/session/26343",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2827,12 +2841,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7659831696951291142",
+        "id": "uq_4158033497351975239",
         "title": "UQ Rugby Benefit in London",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466130",
+        "date": "2026-06-11T21:59:30.152663",
         "url": "https://events.uq.edu.au/event/session/25418",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2841,12 +2855,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4116699889948117266",
+        "id": "uq_-7141870124533863099",
         "title": "Women in Engineering: celebrating diversity cocktail reception",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466141",
+        "date": "2026-06-11T21:59:30.152671",
         "url": "https://events.uq.edu.au/event/session/26253",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2855,12 +2869,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1147828181116233397",
+        "id": "uq_6844447178261003186",
         "title": "Experience symmetry \u2013 Nesbit Endowed Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466151",
+        "date": "2026-06-11T21:59:30.152681",
         "url": "https://events.uq.edu.au/event/session/26188",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2869,12 +2883,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5380623253321951339",
+        "id": "uq_-1046366743221904994",
         "title": "UQ MBA information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466161",
+        "date": "2026-06-11T21:59:30.152690",
         "url": "https://events.uq.edu.au/event/session/26088",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2883,12 +2897,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1324822299162115580",
+        "id": "uq_-6887548790488811535",
         "title": "Friends of Antiquity RD Milns Memorial Lecture: antiquity's answers to modern anxieties",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466171",
+        "date": "2026-06-11T21:59:30.152698",
         "url": "https://events.uq.edu.au/event/session/26193",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2897,12 +2911,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-774613075711863674",
+        "id": "uq_-637643560542136995",
         "title": "UQ Blues Awards Dinner 2024",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466181",
+        "date": "2026-06-11T21:59:30.152705",
         "url": "https://events.uq.edu.au/event/session/26083",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2911,12 +2925,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-570407122372973299",
+        "id": "uq_6141414218127062696",
         "title": "Ventures ilab Accelerator: Chapter 1 2025",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466190",
+        "date": "2026-06-11T21:59:30.152717",
         "url": "https://events.uq.edu.au/event/session/26328",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2925,12 +2939,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2891731692863053964",
+        "id": "uq_7341142627899062444",
         "title": "QBI Steps for Dementia Research: trek the Blue Mountains to raise funds",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466201",
+        "date": "2026-06-11T21:59:30.152724",
         "url": "https://events.uq.edu.au/event/session/25630",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2939,12 +2953,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5140252121135590861",
+        "id": "uq_6381695296803980751",
         "title": "Master Your Career Expo",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466211",
+        "date": "2026-06-11T21:59:30.152732",
         "url": "https://events.uq.edu.au/event/session/26031",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2953,12 +2967,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7237256930664617475",
+        "id": "uq_-4661488236217875203",
         "title": "2024 Hall Annual Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466221",
+        "date": "2026-06-11T21:59:30.152740",
         "url": "https://events.uq.edu.au/event/session/26073",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2967,12 +2981,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5247649179383635741",
+        "id": "uq_-7776337097539995912",
         "title": "Husk Distillery lunch, tour and tasting",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466231",
+        "date": "2026-06-11T21:59:30.152747",
         "url": "https://events.uq.edu.au/event/session/26053",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2981,12 +2995,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2988975333328466965",
+        "id": "uq_-9111617026126801459",
         "title": "Tour, coffee and cake at M-Arts Precinct, Murwillumbah",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466240",
+        "date": "2026-06-11T21:59:30.152755",
         "url": "https://events.uq.edu.au/event/session/26058",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -2995,12 +3009,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8885582831430626932",
+        "id": "uq_-5353376533789559027",
         "title": "Spend Saturday with UQ in the Tweed region: tours, cake, coffee, art and more",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466250",
+        "date": "2026-06-11T21:59:30.152762",
         "url": "https://events.uq.edu.au/event/session/26148",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3009,12 +3023,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4843592690962335436",
+        "id": "uq_-4454958844062124305",
         "title": "UQ MBA Information Event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466259",
+        "date": "2026-06-11T21:59:30.152770",
         "url": "https://events.uq.edu.au/event/session/26021",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3023,12 +3037,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6140620097002887892",
+        "id": "uq_8116905040504847714",
         "title": "The Magic of This Dawn",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466268",
+        "date": "2026-06-11T21:59:30.152777",
         "url": "https://events.uq.edu.au/event/session/26158",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3037,12 +3051,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7304013653159006893",
+        "id": "uq_-9031696824385358052",
         "title": "Early Music Performance Project and UQ Singers",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466277",
+        "date": "2026-06-11T21:59:30.152785",
         "url": "https://events.uq.edu.au/event/session/26153",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3051,12 +3065,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4447587525543426676",
+        "id": "uq_-607088153334887288",
         "title": "Annual Nesbit Endowed Lecture: experience symmetry",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466287",
+        "date": "2026-06-11T21:59:30.152793",
         "url": "https://events.uq.edu.au/event/session/26178",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3065,12 +3079,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7611222593415585352",
+        "id": "uq_3180380376653810901",
         "title": "Career growth speed round: four mini masterclasses over drinks",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466296",
+        "date": "2026-06-11T21:59:30.152800",
         "url": "https://events.uq.edu.au/event/session/26078",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3079,12 +3093,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3852280440080252483",
+        "id": "uq_-6059309292846269339",
         "title": "UQ MBA Golden Gala",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466318",
+        "date": "2026-06-11T21:59:30.152808",
         "url": "https://events.uq.edu.au/event/session/25298",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3093,12 +3107,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3269257607350134799",
+        "id": "uq_2803513956121774726",
         "title": "Richard Cooper Memorial Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466327",
+        "date": "2026-06-11T21:59:30.152815",
         "url": "https://events.uq.edu.au/event/session/25889",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3107,12 +3121,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1786051763647257839",
+        "id": "uq_-3045246069530536644",
         "title": "Stolen Songline: Lani\u2019s Lament | A lecture and film screening with Honorary Professor Henrietta Marrie AM",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466337",
+        "date": "2026-06-11T21:59:30.152823",
         "url": "https://events.uq.edu.au/event/session/25997",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3121,12 +3135,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_776368756713288271",
+        "id": "uq_5312148852291041261",
         "title": "UQ Giving Day 2024",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466349",
+        "date": "2026-06-11T21:59:30.152833",
         "url": "https://events.uq.edu.au/event/session/25546",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3135,12 +3149,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7197123912053512460",
+        "id": "uq_-3888621746252293318",
         "title": "308 Queen Street building and history tour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466358",
+        "date": "2026-06-11T21:59:30.152841",
         "url": "https://events.uq.edu.au/event/session/24918",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3149,12 +3163,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1907092276107867031",
+        "id": "uq_-2809461733780065208",
         "title": "Beating heart disease: tackling Australia's #1 killer",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466367",
+        "date": "2026-06-11T21:59:30.152849",
         "url": "https://events.uq.edu.au/event/session/26068",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3163,12 +3177,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8421771446019716033",
+        "id": "uq_88355259262629790",
         "title": "New Horizons: artificial intelligence and pain conceptualisation",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466377",
+        "date": "2026-06-11T21:59:30.152856",
         "url": "https://events.uq.edu.au/event/session/25911",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3177,12 +3191,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_7957793198125426866",
+        "id": "uq_2926148626625343219",
         "title": "We need to talk about Russia. And China. And so much more.",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466388",
+        "date": "2026-06-11T21:59:30.152865",
         "url": "https://events.uq.edu.au/event/session/26002",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3191,12 +3205,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1275800168089529224",
+        "id": "uq_5868041966792759701",
         "title": "UQ Talks in Perth: the science of making good decisions",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466398",
+        "date": "2026-06-11T21:59:30.152873",
         "url": "https://events.uq.edu.au/event/session/25908",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3205,12 +3219,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6248539624356862048",
+        "id": "uq_-1924960074212799468",
         "title": "Friends of Antiquity Sunday Series: the archaeological evidence for happiness in prehistory",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466406",
+        "date": "2026-06-11T21:59:30.152880",
         "url": "https://events.uq.edu.au/event/session/26026",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3219,12 +3233,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6557600420901844512",
+        "id": "uq_7783325500052484443",
         "title": "2024 Carolyn D. Baker Annual Memorial Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466421",
+        "date": "2026-06-11T21:59:30.152888",
         "url": "https://events.uq.edu.au/event/session/25894",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3233,12 +3247,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4316660927377268928",
+        "id": "uq_-6645849175307075395",
         "title": "Psychology as Art competition: award ceremony",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466431",
+        "date": "2026-06-11T21:59:30.152895",
         "url": "https://events.uq.edu.au/event/session/25899",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3247,12 +3261,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1963098108681888182",
+        "id": "uq_1211299921209451140",
         "title": "Crimes against humanity, gender and the responsibility to protect",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466440",
+        "date": "2026-06-11T21:59:30.152902",
         "url": "https://events.uq.edu.au/event/session/26063",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3261,12 +3275,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4994154988903858299",
+        "id": "uq_8750858337180336811",
         "title": "Ventures LeadHers Awards | Nominations open",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466449",
+        "date": "2026-06-11T21:59:30.152910",
         "url": "https://events.uq.edu.au/event/session/26043",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3275,12 +3289,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7896219335765076595",
+        "id": "uq_-6006322416816604404",
         "title": "Sold out: Doherty Lecture: The Peter Doherty Nobel Lecture Series",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466458",
+        "date": "2026-06-11T21:59:30.152918",
         "url": "https://events.uq.edu.au/event/session/25826",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3289,12 +3303,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4422484743239514544",
+        "id": "uq_880330206697440022",
         "title": "UQ Compassion Symposium",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466467",
+        "date": "2026-06-11T21:59:30.152925",
         "url": "https://events.uq.edu.au/event/session/25775",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3303,12 +3317,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4785695658599304064",
+        "id": "uq_-5242927285678869115",
         "title": "Dusk Of Nations: In Conversation with Fiona Foley, Archie Moore and Keemon Williams",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466478",
+        "date": "2026-06-11T21:59:30.152933",
         "url": "https://events.uq.edu.au/event/session/25992",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3317,12 +3331,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6909361662175026187",
+        "id": "uq_-4847283841844951972",
         "title": "UQ Strings and UQ Singers",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466487",
+        "date": "2026-06-11T21:59:30.152940",
         "url": "https://events.uq.edu.au/event/session/25864",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3331,12 +3345,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4026226157826734871",
+        "id": "uq_8434189412707986897",
         "title": "Samuel Wagan Watson in conversation with Ellen van Neerven: Celebrating the First Nations Classics series",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466496",
+        "date": "2026-06-11T21:59:30.152947",
         "url": "https://events.uq.edu.au/event/session/25922",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3345,12 +3359,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7688281487091784277",
+        "id": "uq_6026491425401713373",
         "title": "Midnight Sonnets: Taylor Swift and Shakespeare",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466506",
+        "date": "2026-06-11T21:59:30.152955",
         "url": "https://events.uq.edu.au/event/session/25877",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3359,12 +3373,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3719949887182767697",
+        "id": "uq_6022034056324573742",
         "title": "Genetics of taste: exploring the art and science of flavour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466515",
+        "date": "2026-06-11T21:59:30.152963",
         "url": "https://events.uq.edu.au/event/session/25917",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3373,12 +3387,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1012024665400788719",
+        "id": "uq_2715025535808937128",
         "title": "Mozart: Requiem",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466524",
+        "date": "2026-06-11T21:59:30.152971",
         "url": "https://events.uq.edu.au/event/session/25740",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3387,12 +3401,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2269172742524236395",
+        "id": "uq_-7112927824915462480",
         "title": "UQ ChangeMakers: does the 4-day week work?",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466535",
+        "date": "2026-06-11T21:59:30.152981",
         "url": "https://events.uq.edu.au/event/session/25790",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3401,12 +3415,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5604101511120894739",
+        "id": "uq_-6282885458795056003",
         "title": "Ted Evans Public Policy Lecture: Here to help - the role of economics in tackling contemporary policy challenges",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466544",
+        "date": "2026-06-11T21:59:30.152990",
         "url": "https://events.uq.edu.au/event/session/25750",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3415,12 +3429,12 @@
         "is_university_dragnet": false
     },
     {
-        "id": "uq_-7500481794416873112",
+        "id": "uq_-2299834548811622956",
         "title": "3T Event: ecology tour of the redeveloped UQ Lakes",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466553",
+        "date": "2026-06-11T21:59:30.152998",
         "url": "https://events.uq.edu.au/event/session/25861",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3429,12 +3443,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3685075031995784208",
+        "id": "uq_3833451296929369778",
         "title": "The 67th Annual E. S. Meyers Memorial Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466561",
+        "date": "2026-06-11T21:59:30.153006",
         "url": "https://events.uq.edu.au/event/session/25836",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3443,12 +3457,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2061722963361043841",
+        "id": "uq_-4384464812404893706",
         "title": "Join Team UQ at Bridge to Brisbane (B2B)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466571",
+        "date": "2026-06-11T21:59:30.153014",
         "url": "https://events.uq.edu.au/event/session/25444",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3457,12 +3471,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-454442089964362337",
+        "id": "uq_-3237914260732333302",
         "title": "Speaking from within",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466585",
+        "date": "2026-06-11T21:59:30.153028",
         "url": "https://events.uq.edu.au/event/session/25745",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3471,12 +3485,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7996210377409758021",
+        "id": "uq_-61599056312796536",
         "title": "Making theatrical empires: nineteenth-century women",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466594",
+        "date": "2026-06-11T21:59:30.153035",
         "url": "https://events.uq.edu.au/event/session/25735",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3485,12 +3499,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6747478393652769729",
+        "id": "uq_-762660636663264567",
         "title": "Heron Island Research Station alumni tour",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466603",
+        "date": "2026-06-11T21:59:30.153043",
         "url": "https://events.uq.edu.au/event/session/25498",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3499,12 +3513,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2639807854099775359",
+        "id": "uq_-5052253694979448533",
         "title": "From Goddard to the Ethiopian Highlands and back with wildlife filmmaker, Dr Chadden Hunter",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466612",
+        "date": "2026-06-11T21:59:30.153050",
         "url": "https://events.uq.edu.au/event/session/25685",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3513,12 +3527,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2851716074046413350",
+        "id": "uq_-602838700191059556",
         "title": "UQ Talks Sport: what it takes to achieve Paralympic glory",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466620",
+        "date": "2026-06-11T21:59:30.153059",
         "url": "https://events.uq.edu.au/event/session/25690",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3527,12 +3541,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6492706525410303302",
+        "id": "uq_1994767427340405282",
         "title": "Crafty Party with Hiromi Tango",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466629",
+        "date": "2026-06-11T21:59:30.153067",
         "url": "https://events.uq.edu.au/event/session/25715",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3541,12 +3555,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8057013361367379694",
+        "id": "uq_-5298750588272799656",
         "title": "UQ Talks: (re)designing Brisbane for 2032",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466638",
+        "date": "2026-06-11T21:59:30.153075",
         "url": "https://events.uq.edu.au/event/session/25620",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3555,12 +3569,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_800885059059983048",
+        "id": "uq_-8354589136175515292",
         "title": "BrisScience - adventures in exotic animal medicine",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466646",
+        "date": "2026-06-11T21:59:30.153082",
         "url": "https://events.uq.edu.au/event/session/25730",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3569,12 +3583,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_2837659484191972268",
+        "id": "uq_-4286964076913673677",
         "title": "George Watson Public Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466656",
+        "date": "2026-06-11T21:59:30.153090",
         "url": "https://events.uq.edu.au/event/session/25695",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3583,12 +3597,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_452287710118202733",
+        "id": "uq_1057155350162454963",
         "title": "Public seminar - Goori Du'gool-yah (Aboriginal Heart Talk) with Winyuba and Gaiarbau on Languages, Culture, Country",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466665",
+        "date": "2026-06-11T21:59:30.153098",
         "url": "https://events.uq.edu.au/event/session/25667",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3597,12 +3611,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8096862041183350841",
+        "id": "uq_-491383366450760474",
         "title": "UQ Finance Roundtable 2024 \u2013 navigating the current: capital flows around shifting geopolitics",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466673",
+        "date": "2026-06-11T21:59:30.153105",
         "url": "https://events.uq.edu.au/event/session/25568",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3611,12 +3625,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1061776890699698397",
+        "id": "uq_-7025653873545045169",
         "title": "Smart money strategies",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466680",
+        "date": "2026-06-11T21:59:30.153113",
         "url": "https://events.uq.edu.au/event/session/25583",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3625,12 +3639,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4873092503148024148",
+        "id": "uq_5576215501600779098",
         "title": "Cheese and Chats: revolutionising heart transplantation",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466689",
+        "date": "2026-06-11T21:59:30.153120",
         "url": "https://events.uq.edu.au/event/session/25598",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3639,12 +3653,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3318817235804873648",
+        "id": "uq_-6380941449831253946",
         "title": "Opening Night: Hoda Afshar: A Curve is a Broken Line",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466697",
+        "date": "2026-06-11T21:59:30.153128",
         "url": "https://events.uq.edu.au/event/session/25541",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3653,12 +3667,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_552177101764823862",
+        "id": "uq_-5677684069915717973",
         "title": "UQ NAIDOC Week: 'Reflections on the Referendum' keynote lecture by Professor Megan Davis",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466706",
+        "date": "2026-06-11T21:59:30.153135",
         "url": "https://events.uq.edu.au/event/session/25464",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3667,12 +3681,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4772599729540749524",
+        "id": "uq_6717868914910617538",
         "title": "Superannuation essentials",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466717",
+        "date": "2026-06-11T21:59:30.153145",
         "url": "https://events.uq.edu.au/event/session/25563",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3681,12 +3695,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6245654025003491350",
+        "id": "uq_2207514003956957447",
         "title": "Celebrating Female Composers concert",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466725",
+        "date": "2026-06-11T21:59:30.153153",
         "url": "https://events.uq.edu.au/event/session/25456",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3695,12 +3709,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_682819895067448364",
+        "id": "uq_8050033890879210938",
         "title": "UQ ChangeMakers: can you separate the art from the artist?",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466734",
+        "date": "2026-06-11T21:59:30.153160",
         "url": "https://events.uq.edu.au/event/session/25348",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3709,12 +3723,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4780457865612145707",
+        "id": "uq_1591113707966681136",
         "title": "UQ ChangeMakers: Can you separate art from the artist? [North America time zone]",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466742",
+        "date": "2026-06-11T21:59:30.153168",
         "url": "https://events.uq.edu.au/event/session/25503",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3723,12 +3737,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4028136219504155791",
+        "id": "uq_-9152724718060596871",
         "title": "Discover postgraduate Biostatistics",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466751",
+        "date": "2026-06-11T21:59:30.153175",
         "url": "https://events.uq.edu.au/event/session/25205",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3737,12 +3751,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7050593215528417494",
+        "id": "uq_-4217449482477687490",
         "title": "UQ Sport: Kids Holiday Camp",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466759",
+        "date": "2026-06-11T21:59:30.153183",
         "url": "https://events.uq.edu.au/event/session/25461",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3751,12 +3765,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3771828801201231408",
+        "id": "uq_4223383072423761923",
         "title": "Fulbright Scholarships",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466767",
+        "date": "2026-06-11T21:59:30.153191",
         "url": "https://events.uq.edu.au/event/session/25551",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3765,12 +3779,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8776755785305817099",
+        "id": "uq_-9155332709312423925",
         "title": "Discover postgraduate Geographic Information Science",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466775",
+        "date": "2026-06-11T21:59:30.153198",
         "url": "https://events.uq.edu.au/event/session/25210",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3779,12 +3793,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6920704128924483360",
+        "id": "uq_360005287650858993",
         "title": "Discover postgraduate Molecular Biology",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466785",
+        "date": "2026-06-11T21:59:30.153205",
         "url": "https://events.uq.edu.au/event/session/25215",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3793,12 +3807,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3242369932185543686",
+        "id": "uq_8151880098195750302",
         "title": "3T Event: what proposed aged care means testing could mean for the ageing population",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466793",
+        "date": "2026-06-11T21:59:30.153215",
         "url": "https://events.uq.edu.au/event/session/25472",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3807,12 +3821,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_7300996523064294372",
+        "id": "uq_8791585531485246187",
         "title": "Discover postgraduate Financial Mathematics",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466802",
+        "date": "2026-06-11T21:59:30.153222",
         "url": "https://events.uq.edu.au/event/session/25220",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3821,12 +3835,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7006122287252455015",
+        "id": "uq_2980390853172639815",
         "title": "Shaping change: accelerating the decarbonisation of road freight transport",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466810",
+        "date": "2026-06-11T21:59:30.153232",
         "url": "https://events.uq.edu.au/event/session/25467",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3835,12 +3849,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-431556566532669657",
+        "id": "uq_5902461734390561264",
         "title": "Discover postgraduate Food Science and Technology",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466819",
+        "date": "2026-06-11T21:59:30.153239",
         "url": "https://events.uq.edu.au/event/session/25225",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3849,12 +3863,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-7784637812549170224",
+        "id": "uq_-3359461234185534793",
         "title": "Language courses at UQ Brisbane City",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466827",
+        "date": "2026-06-11T21:59:30.153247",
         "url": "https://events.uq.edu.au/event/session/25313",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3863,12 +3877,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3786510068012086552",
+        "id": "uq_-2988724709082396019",
         "title": "Discover postgraduate Environmental Health Sciences",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466835",
+        "date": "2026-06-11T21:59:30.153256",
         "url": "https://events.uq.edu.au/event/session/25235",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3877,12 +3891,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8884096942328685920",
+        "id": "uq_-8861717619748658859",
         "title": "Discover postgraduate Educational Studies",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466844",
+        "date": "2026-06-11T21:59:30.153264",
         "url": "https://events.uq.edu.au/event/session/24857",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3891,12 +3905,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-845943095484068722",
+        "id": "uq_6188400717864406166",
         "title": "BrisScience -  what are asteroids made of?",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466855",
+        "date": "2026-06-11T21:59:30.153271",
         "url": "https://events.uq.edu.au/event/session/25451",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3905,12 +3919,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3382482284842556930",
+        "id": "uq_-1022141660553116711",
         "title": "Discover postgraduate Epidemiology",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466864",
+        "date": "2026-06-11T21:59:30.153278",
         "url": "https://events.uq.edu.au/event/session/25240",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3919,12 +3933,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8721885945769988413",
+        "id": "uq_6888428252691131947",
         "title": "How to create a 'healthy' business",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466871",
+        "date": "2026-06-11T21:59:30.153286",
         "url": "https://events.uq.edu.au/event/session/25446",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3933,12 +3947,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-96271791766746417",
+        "id": "uq_3464282532097725865",
         "title": "Discover postgraduate Occupational Health, Safety and Hygiene",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466880",
+        "date": "2026-06-11T21:59:30.153293",
         "url": "https://events.uq.edu.au/event/session/25245",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3947,12 +3961,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3823999963279841869",
+        "id": "uq_2193990264293088389",
         "title": "Discover postgraduate Environmental Management",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466888",
+        "date": "2026-06-11T21:59:30.153302",
         "url": "https://events.uq.edu.au/event/session/25155",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3961,12 +3975,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8435974526858747591",
+        "id": "uq_-812945627772687437",
         "title": "Discover postgraduate Agribusiness",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466895",
+        "date": "2026-06-11T21:59:30.153309",
         "url": "https://events.uq.edu.au/event/session/25181",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3975,12 +3989,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4197030972450621269",
+        "id": "uq_3666755594665585621",
         "title": "How the Antiquities Museum got its pots \u2013 recent cases and new directions at the RD Milns Antiquities Museum",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466902",
+        "date": "2026-06-11T21:59:30.153346",
         "url": "https://events.uq.edu.au/event/session/25378",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -3989,12 +4003,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_415685010983890053",
+        "id": "uq_-58957915672731277",
         "title": "Institute of Modern Languages: Winter Survival Courses (June - July 2024)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466910",
+        "date": "2026-06-11T21:59:30.153362",
         "url": "https://events.uq.edu.au/event/session/25383",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4003,12 +4017,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_246691772886126900",
+        "id": "uq_172674659730934117",
         "title": "Seminar: Myanmar Spring Revolution",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466917",
+        "date": "2026-06-11T21:59:30.153373",
         "url": "https://events.uq.edu.au/event/session/25413",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4017,12 +4031,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4947617564615789916",
+        "id": "uq_-164943472858213748",
         "title": "UQ Postgrad Ready",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466924",
+        "date": "2026-06-11T21:59:30.153380",
         "url": "https://events.uq.edu.au/event/session/24814",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4031,12 +4045,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9081643113051589877",
+        "id": "uq_-4680733238066435913",
         "title": "Discover postgraduate Urban and Regional Planning",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466931",
+        "date": "2026-06-11T21:59:30.153388",
         "url": "https://events.uq.edu.au/event/session/25250",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4045,12 +4059,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4308780086672313714",
+        "id": "uq_-378405580906903061",
         "title": "Discover postgraduate Conservation Science",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466938",
+        "date": "2026-06-11T21:59:30.153396",
         "url": "https://events.uq.edu.au/event/session/25255",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4059,12 +4073,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-2662815678829383872",
+        "id": "uq_-4316339499052314329",
         "title": "Beyond the boundaries: innovations set to transform the way we live, work and play",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466946",
+        "date": "2026-06-11T21:59:30.153403",
         "url": "https://events.uq.edu.au/event/session/25318",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4073,12 +4087,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1401092102833824991",
+        "id": "uq_5705773079236227662",
         "title": "Merson Lecture 2024: tools for analysing and repairing the brain",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466953",
+        "date": "2026-06-11T21:59:30.153411",
         "url": "https://events.uq.edu.au/event/session/25160",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4087,12 +4101,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4426621102507221288",
+        "id": "uq_6477870770761932836",
         "title": "Discover postgraduate Biotechnology",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466960",
+        "date": "2026-06-11T21:59:30.153419",
         "url": "https://events.uq.edu.au/event/session/25260",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4101,12 +4115,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-3444025672256145086",
+        "id": "uq_-134427052703833578",
         "title": "2024 QBI Lexus Alzheimer's Jazz Gala",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466970",
+        "date": "2026-06-11T21:59:30.153432",
         "url": "https://events.uq.edu.au/event/session/24836",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4115,12 +4129,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-4216236442558854415",
+        "id": "uq_761860672446793910",
         "title": "UQ Entrepreneurship and Innovation Awards \u2013 nominations close 23 June",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466977",
+        "date": "2026-06-11T21:59:30.153442",
         "url": "https://events.uq.edu.au/event/session/25373",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4129,12 +4143,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_791941320173525098",
+        "id": "uq_-7831419006938605844",
         "title": "Inaugural Mattick lecture 'the junk ain't junk'",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466985",
+        "date": "2026-06-11T21:59:30.153450",
         "url": "https://events.uq.edu.au/event/session/25323",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4143,12 +4157,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_3852349166417763092",
+        "id": "uq_-1478496906164231245",
         "title": "The Word for World is Ocean: book launch and lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466992",
+        "date": "2026-06-11T21:59:30.153457",
         "url": "https://events.uq.edu.au/event/session/25303",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4157,12 +4171,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-5248006904267394033",
+        "id": "uq_1532917549090731096",
         "title": "Great Court Race",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.466999",
+        "date": "2026-06-11T21:59:30.153464",
         "url": "https://events.uq.edu.au/event/session/25150",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4171,12 +4185,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_8082092667160647150",
+        "id": "uq_5442039602641606676",
         "title": "Naida Haxton Lecture 2024",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467006",
+        "date": "2026-06-11T21:59:30.153474",
         "url": "https://events.uq.edu.au/event/session/25200",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4185,12 +4199,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4510697478085971300",
+        "id": "uq_8232918880774215232",
         "title": "The Secret Lives of Portraits",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467015",
+        "date": "2026-06-11T21:59:30.153482",
         "url": "https://events.uq.edu.au/event/session/25274",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4199,12 +4213,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-59922428169325711",
+        "id": "uq_6583324036145745790",
         "title": "Discover postgraduate Agricultural and Animal Science",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467022",
+        "date": "2026-06-11T21:59:30.153489",
         "url": "https://events.uq.edu.au/event/session/25131",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4213,12 +4227,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5516974760940746208",
+        "id": "uq_-6473496398694444057",
         "title": "Discover postgraduate Public Health",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467033",
+        "date": "2026-06-11T21:59:30.153498",
         "url": "https://events.uq.edu.au/event/session/25135",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4227,12 +4241,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4056270465284392439",
+        "id": "uq_-5827238242758867817",
         "title": "Friends of Antiquity 2024 Milns Visiting Scholar Lecture",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467040",
+        "date": "2026-06-11T21:59:30.153506",
         "url": "https://events.uq.edu.au/event/session/25195",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4241,12 +4255,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4272130014311805155",
+        "id": "uq_3358492313335328016",
         "title": "Gifts of friendship: rare books and manuscript treasures in the Fryer Library",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467047",
+        "date": "2026-06-11T21:59:30.153513",
         "url": "https://events.uq.edu.au/event/session/25123",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4255,12 +4269,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1971940113222887133",
+        "id": "uq_-3376606060094762612",
         "title": "How we remember tomorrow: reflections in music",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467054",
+        "date": "2026-06-11T21:59:30.153520",
         "url": "https://events.uq.edu.au/event/session/25175",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4269,12 +4283,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-1275299348724948564",
+        "id": "uq_-1779972726735902757",
         "title": "UQ Alumni Book Fair",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467067",
+        "date": "2026-06-11T21:59:30.153533",
         "url": "https://events.uq.edu.au/event/session/24922",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4283,12 +4297,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5380623253321951339",
+        "id": "uq_-1046366743221904994",
         "title": "UQ MBA information webinar",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467074",
+        "date": "2026-06-11T21:59:30.153542",
         "url": "https://events.uq.edu.au/event/session/25057",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4297,12 +4311,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1979168634945125818",
+        "id": "uq_-3967241796384355451",
         "title": "Dine like a literary icon - Patina at Alumni Court",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467080",
+        "date": "2026-06-11T21:59:30.153550",
         "url": "https://events.uq.edu.au/event/session/25265",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4311,12 +4325,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_1809413069520418865",
+        "id": "uq_4690250429951870991",
         "title": "UQ Hockey Club: Red Roo Ball 2024",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467087",
+        "date": "2026-06-11T21:59:30.153557",
         "url": "https://events.uq.edu.au/event/session/24867",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4325,12 +4339,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_6139084934166848697",
+        "id": "uq_6920144544065511242",
         "title": "UQ Talks: how to travel more sustainably",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467094",
+        "date": "2026-06-11T21:59:30.153565",
         "url": "https://events.uq.edu.au/event/session/25111",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4339,12 +4353,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_5737608428988323297",
+        "id": "uq_-7406489328891883271",
         "title": "Friends of Antiquity Sunday Series: wondrous machines \u2013 an exhibition and tour in the RD Milns Antiquities Museum",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467101",
+        "date": "2026-06-11T21:59:30.153572",
         "url": "https://events.uq.edu.au/event/session/25139",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4353,12 +4367,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_4652660228681098368",
+        "id": "uq_-708609221753215085",
         "title": "UQ ChangeMakers: how to be a (better) leader: online event",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467109",
+        "date": "2026-06-11T21:59:30.153580",
         "url": "https://events.uq.edu.au/event/session/24997",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4367,12 +4381,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-6974830243679220036",
+        "id": "uq_7994278188336299291",
         "title": "The 2024 Rodney Wylie Lecture (Brisbane, Sydney, Melbourne)",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467116",
+        "date": "2026-06-11T21:59:30.153587",
         "url": "https://events.uq.edu.au/event/session/25032",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4381,12 +4395,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_-8846711468617543758",
+        "id": "uq_9048041410712574486",
         "title": "ilab Accelerator Pitch Night",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467123",
+        "date": "2026-06-11T21:59:30.153641",
         "url": "https://events.uq.edu.au/event/session/25077",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4395,12 +4409,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9134400180209978908",
+        "id": "uq_-7812143360739595211",
         "title": "Alumni events",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467131",
+        "date": "2026-06-11T21:59:30.153648",
         "url": "https://events.uq.edu.au/event/session/22639",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4409,12 +4423,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9134400180209978908",
+        "id": "uq_-7812143360739595211",
         "title": "Alumni events",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467137",
+        "date": "2026-06-11T21:59:30.153656",
         "url": "https://events.uq.edu.au/event/session/21528",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
@@ -4423,12 +4437,12 @@
         "is_university_dragnet": true
     },
     {
-        "id": "uq_9134400180209978908",
+        "id": "uq_-7812143360739595211",
         "title": "Alumni events",
         "description": "",
         "host_organization": "UQ",
         "location": "St Lucia, Brisbane",
-        "date": "2026-06-04T21:28:07.467145",
+        "date": "2026-06-11T21:59:30.153663",
         "url": "https://events.uq.edu.au/event/session/20500",
         "tier": "Tier 2: Greater Brisbane",
         "matched_topics": [
